@@ -1,0 +1,485 @@
+GeoFips,GeoName,LineCode,Description,1997-1998,1998-1999,1999-2000,2000-2001,2001-2002,2002-2003,2003-2004,2004-2005,2005-2006,2006-2007,2007-2008,2008-2009,2009-2010,2010-2011,2011-2012,2012-2013,2013-2014,2014-2015,2015-2016,2016-2017,2017-2018,2018-2019,2019-2020
+0,United States,1,Real GDP (millions of chained 2012 dollars),4.5,4.8,4.1,1.0,1.7,2.9,3.8,3.5,2.9,1.9,-0.1,-2.5,2.6,1.6,2.2,1.8,2.5,3.1,1.7,2.3,3.0,2.2,-3.5
+0,United States,2,Chain-type quantity indexes for real GDP,4.5,4.8,4.1,1.0,1.7,2.9,3.8,3.5,2.9,1.9,-0.1,-2.5,2.6,1.6,2.2,1.8,2.5,3.1,1.7,2.3,3.0,2.2,-3.5
+0,United States,3,Current-dollar GDP (millions of current dollars),5.7,6.3,6.5,3.2,3.4,4.8,6.6,6.7,6.0,4.6,1.8,-1.8,3.8,3.7,4.2,3.6,4.4,4.1,2.8,4.3,5.5,4.0,-2.3
+0,United States,4,Compensation (millions of dollars),7.7,6.6,8.2,3.3,1.6,3.6,5.8,5.2,5.8,5.3,2.3,-3.7,2.1,3.8,4.1,3.1,4.7,4.9,2.7,4.6,5.1,4.4,(NA)
+0,United States,5,Gross operating surplus (millions of dollars),3.0,6.2,4.0,3.5,5.4,6.5,7.5,8.9,5.9,3.8,1.2,1.2,5.9,3.5,4.4,4.1,4.0,3.2,2.9,3.8,5.9,3.6,(NA)
+0,United States,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.4,4.2,5.5,0.9,7.4,5.3,8.6,7.3,7.3,3.9,1.5,-2.9,4.0,3.6,3.3,4.7,4.8,3.0,2.6,4.3,5.9,2.6,(NA)
+0,United States,7,  Taxes on production and imports (TOPI) (millions of dollars),4.6,5.3,5.2,2.7,4.4,6.0,7.8,8.6,5.8,4.0,1.2,-2.2,3.5,3.8,2.9,4.6,4.4,2.8,2.9,4.0,5.9,3.2,(NA)
+0,United States,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+1000,Alabama,1,Real GDP (millions of chained 2012 dollars),3.6,3.7,1.6,-0.4,2.6,2.5,6.5,3.4,1.9,0.6,-0.7,-3.4,2.3,1.4,0.5,1.2,-0.7,1.0,1.1,1.1,2.3,1.4,-2.7
+1000,Alabama,2,Chain-type quantity indexes for real GDP,3.6,3.7,1.6,-0.4,2.6,2.5,6.5,3.4,1.9,0.6,-0.7,-3.4,2.3,1.4,0.5,1.2,-0.7,1.0,1.1,1.1,2.3,1.4,-2.7
+1000,Alabama,3,Current-dollar GDP (millions of current dollars),5.2,5.1,3.7,2.4,4.1,4.6,9.6,6.5,5.1,3.6,1.4,-2.1,3.7,3.7,2.5,3.0,1.5,2.6,2.1,3.2,4.8,3.2,-1.4
+1000,Alabama,4,Compensation (millions of dollars),5.1,4.8,3.8,3.3,2.9,4.0,5.8,5.8,5.5,4.5,2.5,-2.4,1.5,2.2,1.5,1.8,3.7,3.8,2.6,3.4,4.2,4.4,(NA)
+1000,Alabama,5,Gross operating surplus (millions of dollars),5.9,5.9,2.9,1.4,6.8,5.4,15.9,7.0,4.1,2.4,-0.4,-1.1,7.0,5.6,4.2,4.7,-1.4,1.6,0.8,2.8,5.3,2.8,(NA)
+1000,Alabama,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.0,4.2,8.1,0.3,0.2,5.7,7.8,9.3,7.3,2.7,3.2,-5.0,4.3,5.1,1.4,2.5,1.3,-0.4,6.7,3.7,7.1,-4.8,(NA)
+1000,Alabama,7,  Taxes on production and imports (TOPI) (millions of dollars),3.2,5.2,7.4,1.7,0.6,4.8,6.7,10.2,6.6,2.6,2.7,-4.1,3.6,5.3,1.1,2.2,1.4,-0.6,7.1,3.8,6.2,-3.7,(NA)
+1000,Alabama,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+2000,Alaska,1,Real GDP (millions of chained 2012 dollars),-2.6,-1.1,-3.0,3.7,4.6,-1.8,3.8,3.0,7.7,5.4,-0.5,9.9,-3.0,0.9,5.5,-5.1,-2.3,1.0,-1.3,-0.9,0.2,0.6,-4.9
+2000,Alaska,2,Chain-type quantity indexes for real GDP,-2.6,-1.1,-3.0,3.7,4.6,-1.8,3.8,3.0,7.7,5.4,-0.5,9.9,-3.0,0.9,5.5,-5.1,-2.3,1.0,-1.3,-0.9,0.2,0.6,-4.9
+2000,Alaska,3,Current-dollar GDP (millions of current dollars),-6.1,2.3,8.2,6.1,4.1,7.3,10.1,13.7,11.7,10.2,11.7,-9.3,6.6,6.4,2.5,-1.9,-1.5,-9.0,-1.9,4.0,4.9,0.2,-7.6
+2000,Alaska,4,Compensation (millions of dollars),4.4,1.8,5.8,7.1,5.5,5.2,5.6,6.5,5.5,6.1,4.9,3.3,2.8,5.6,5.2,2.4,3.0,2.5,-2.4,-0.2,4.2,3.4,(NA)
+2000,Alaska,5,Gross operating surplus (millions of dollars),-15.0,3.6,7.6,8.0,4.8,10.3,15.8,22.0,18.0,7.7,-2.0,-1.8,6.6,2.4,-1.5,-8.2,4.3,-13.6,-3.4,8.1,4.5,-5.0,(NA)
+2000,Alaska,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-18.8,-1.2,27.6,-7.5,-8.0,5.6,9.4,14.3,12.3,54.3,108.5,-54.3,25.5,26.7,6.7,3.6,-32.6,-47.2,13.0,14.2,12.8,5.0,(NA)
+2000,Alaska,7,  Taxes on production and imports (TOPI) (millions of dollars),-18.7,-1.0,26.8,-5.1,-9.4,6.7,8.5,14.1,11.8,53.0,106.1,-53.6,24.9,26.4,6.4,3.5,-32.0,-46.2,12.5,13.0,12.7,5.0,(NA)
+2000,Alaska,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+4000,Arizona,1,Real GDP (millions of chained 2012 dollars),8.7,8.2,4.9,2.3,3.2,6.4,4.2,8.2,5.4,2.8,-2.6,-8.1,1.0,2.2,1.9,0.7,1.5,2.9,3.3,3.7,3.9,3.1,-0.9
+4000,Arizona,2,Chain-type quantity indexes for real GDP,8.7,8.2,4.9,2.3,3.2,6.4,4.2,8.2,5.4,2.8,-2.6,-8.1,1.0,2.2,1.9,0.7,1.5,2.9,3.3,3.7,3.9,3.1,-0.9
+4000,Arizona,3,Current-dollar GDP (millions of current dollars),8.3,8.4,6.0,4.2,4.7,7.4,6.5,11.1,8.7,5.7,-1.1,-6.0,1.8,3.9,4.0,2.6,3.6,4.8,4.8,5.5,6.2,5.5,0.6
+4000,Arizona,4,Compensation (millions of dollars),10.4,7.4,10.1,4.7,2.7,4.7,8.2,9.6,10.5,6.0,0.9,-6.1,-0.5,3.8,4.0,3.5,4.1,4.8,4.1,6.0,6.6,5.7,(NA)
+4000,Arizona,5,Gross operating surplus (millions of dollars),6.0,9.5,-0.2,3.5,7.1,11.5,4.1,13.7,6.4,4.6,-3.7,-6.2,5.0,3.5,4.2,1.5,3.2,5.8,5.6,4.4,5.9,5.8,(NA)
+4000,Arizona,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.7,9.9,11.1,3.7,7.3,5.7,7.8,8.6,8.5,9.5,-2.9,-3.6,2.5,7.4,2.1,1.4,1.5,-0.1,6.1,6.8,5.0,2.8,(NA)
+4000,Arizona,7,  Taxes on production and imports (TOPI) (millions of dollars),5.8,10.0,10.8,4.7,6.0,6.8,6.9,9.5,7.9,9.7,-3.2,-2.8,1.8,7.3,1.6,1.4,1.5,-0.3,6.0,6.8,5.1,2.8,(NA)
+4000,Arizona,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+5000,Arkansas,1,Real GDP (millions of chained 2012 dollars),2.5,5.4,1.0,-0.2,3.2,4.0,4.6,3.5,2.2,-0.8,-0.3,-3.2,2.6,2.0,0.4,2.4,1.3,1.1,0.5,1.3,1.5,0.6,-2.6
+5000,Arkansas,2,Chain-type quantity indexes for real GDP,2.5,5.4,1.0,-0.2,3.2,4.0,4.6,3.5,2.2,-0.8,-0.3,-3.2,2.6,2.0,0.4,2.4,1.3,1.1,0.5,1.3,1.5,0.6,-2.6
+5000,Arkansas,3,Current-dollar GDP (millions of current dollars),4.3,7.0,2.9,2.8,4.7,5.8,8.0,6.0,5.4,2.7,2.1,-2.1,4.1,4.1,2.5,4.7,3.0,1.4,1.2,3.2,3.9,2.5,-1.4
+5000,Arkansas,4,Compensation (millions of dollars),6.6,5.3,5.5,4.2,3.1,4.4,5.9,5.2,5.4,4.9,2.1,-0.9,1.8,2.9,4.1,2.3,3.3,3.4,2.3,3.6,3.5,3.4,(NA)
+5000,Arkansas,5,Gross operating surplus (millions of dollars),1.9,8.2,1.3,1.0,5.4,9.4,8.7,6.0,4.9,0.2,2.0,-3.3,6.6,6.0,-0.5,8.0,2.6,-1.3,-0.3,2.4,4.2,1.3,(NA)
+5000,Arkansas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-0.9,15.3,-9.5,1.2,15.3,-2.5,23.2,12.3,7.5,-1.2,2.1,-3.9,9.3,3.0,6.4,5.5,2.7,0.4,1.6,3.6,5.6,1.5,(NA)
+5000,Arkansas,7,  Taxes on production and imports (TOPI) (millions of dollars),3.1,20.6,-5.4,4.3,4.0,4.7,8.8,13.4,5.8,-0.9,0.5,-1.7,7.2,3.2,5.6,5.2,2.1,0.6,3.6,3.9,5.2,5.6,(NA)
+5000,Arkansas,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+6000,California,1,Real GDP (millions of chained 2012 dollars),6.6,7.7,8.0,-0.1,2.4,4.7,4.0,4.5,4.2,1.5,0.4,-4.0,1.5,1.6,2.5,3.5,4.4,5.2,3.4,4.3,3.1,3.4,-2.8
+6000,California,2,Chain-type quantity indexes for real GDP,6.6,7.7,8.0,-0.1,2.4,4.7,4.0,4.5,4.2,1.5,0.4,-4.0,1.5,1.6,2.5,3.5,4.4,5.2,3.4,4.3,3.1,3.4,-2.8
+6000,California,3,Current-dollar GDP (millions of current dollars),7.2,8.7,9.5,1.6,3.7,6.3,6.7,7.4,7.0,4.3,1.8,-3.6,2.8,3.8,4.6,5.5,6.1,6.7,4.4,6.0,5.1,5.3,-1.3
+6000,California,4,Compensation (millions of dollars),8.9,8.9,12.8,2.4,0.9,4.2,6.6,5.1,5.8,5.0,1.2,-5.0,2.1,4.8,5.1,4.0,5.9,7.2,4.4,5.9,5.4,5.5,(NA)
+6000,California,5,Gross operating surplus (millions of dollars),5.1,8.9,5.2,1.4,6.0,10.1,6.5,10.7,7.9,3.5,1.7,-1.8,3.7,2.3,5.0,7.0,6.3,6.1,4.9,6.4,4.6,4.5,(NA)
+6000,California,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.2,5.6,8.0,-5.9,17.6,1.9,8.3,5.0,11.1,4.1,7.4,-3.4,2.9,6.2,-1.8,7.9,6.4,6.4,-0.1,3.3,5.8,9.3,(NA)
+6000,California,7,  Taxes on production and imports (TOPI) (millions of dollars),4.6,6.0,7.2,3.8,7.1,2.1,8.0,5.8,10.0,4.3,6.4,-2.5,2.5,6.0,-2.0,7.5,6.2,6.1,0.4,3.2,5.8,9.0,(NA)
+6000,California,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+8000,Colorado,1,Real GDP (millions of chained 2012 dollars),9.0,7.5,7.7,1.5,0.2,0.8,1.0,4.2,1.9,3.3,1.2,-2.1,1.1,1.2,1.9,3.3,4.3,4.8,2.2,4.0,4.4,3.9,-1.5
+8000,Colorado,2,Chain-type quantity indexes for real GDP,9.0,7.5,7.7,1.5,0.2,0.8,1.0,4.2,1.9,3.3,1.2,-2.1,1.1,1.2,1.9,3.3,4.3,4.8,2.2,4.0,4.4,3.9,-1.5
+8000,Colorado,3,Current-dollar GDP (millions of current dollars),9.8,9.2,10.1,3.8,1.9,3.0,3.9,7.8,5.0,6.4,3.9,-2.8,2.8,3.4,3.5,5.4,6.0,4.0,3.1,6.2,7.0,5.5,-0.7
+8000,Colorado,4,Compensation (millions of dollars),10.6,9.4,12.7,3.9,-0.7,2.0,4.8,5.8,6.1,5.9,3.6,-2.7,1.2,3.4,5.5,4.1,7.0,5.2,3.1,6.2,6.2,6.5,(NA)
+8000,Colorado,5,Gross operating surplus (millions of dollars),9.0,9.0,6.5,3.9,5.0,5.1,1.7,10.8,3.2,7.3,4.8,-3.0,3.0,3.4,2.4,7.5,4.7,2.5,2.5,5.9,8.4,4.4,(NA)
+8000,Colorado,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.4,7.6,8.8,2.1,7.4,-0.8,9.4,7.0,6.5,5.8,0.8,-2.5,16.8,3.5,-5.8,3.7,5.4,3.5,6.9,8.7,5.5,3.1,(NA)
+8000,Colorado,7,  Taxes on production and imports (TOPI) (millions of dollars),7.8,8.4,8.0,3.4,4.6,1.1,7.3,8.6,4.9,5.7,0.9,-2.1,15.9,3.8,-5.7,3.9,5.2,3.0,7.0,8.5,5.2,3.4,(NA)
+8000,Colorado,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+9000,Connecticut,1,Real GDP (millions of chained 2012 dollars),2.9,3.1,6.9,1.7,0.0,1.0,6.6,2.4,3.8,3.7,-0.6,-4.2,-0.3,-2.2,0.7,-2.3,-0.4,3.2,0.3,0.9,0.4,0.9,-4.1
+9000,Connecticut,2,Chain-type quantity indexes for real GDP,2.9,3.1,6.9,1.7,0.0,1.0,6.6,2.4,3.8,3.7,-0.6,-4.2,-0.3,-2.2,0.7,-2.3,-0.4,3.2,0.3,0.9,0.4,0.9,-4.1
+9000,Connecticut,3,Current-dollar GDP (millions of current dollars),5.0,4.8,8.8,4.2,1.9,2.9,9.4,5.2,6.8,6.5,1.3,-1.5,0.5,-0.5,3.1,0.0,1.9,5.5,1.7,2.2,2.6,2.9,-2.4
+9000,Connecticut,4,Compensation (millions of dollars),6.7,5.8,8.0,3.4,-0.6,2.8,6.3,4.3,4.3,6.3,1.2,-4.7,1.8,3.4,2.2,1.5,3.0,3.4,0.9,1.2,2.2,2.4,(NA)
+9000,Connecticut,5,Gross operating surplus (millions of dollars),2.1,3.8,11.6,6.4,5.6,2.1,15.0,6.6,11.2,6.9,1.6,2.1,-1.1,-5.8,2.8,-2.3,0.0,9.4,2.9,3.3,2.4,3.4,(NA)
+9000,Connecticut,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.9,1.7,2.6,-0.1,2.6,7.4,3.2,4.3,0.2,5.1,0.0,0.5,0.6,4.4,12.1,2.1,4.3,-0.8,0.3,2.9,7.7,2.9,(NA)
+9000,Connecticut,7,  Taxes on production and imports (TOPI) (millions of dollars),5.4,1.8,2.5,0.1,2.7,7.5,3.3,4.6,0.2,5.3,-0.2,1.2,0.6,4.6,11.2,1.8,4.1,-0.8,0.3,2.4,7.5,2.9,(NA)
+9000,Connecticut,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+10000,Delaware,1,Real GDP (millions of chained 2012 dollars),9.4,7.6,4.3,4.9,-3.6,1.8,4.5,-1.2,2.6,-0.2,-4.2,3.8,-0.4,3.2,-1.0,-3.8,7.8,3.7,-5.5,-1.7,2.1,1.8,-3.9
+10000,Delaware,2,Chain-type quantity indexes for real GDP,9.4,7.6,4.3,4.9,-3.6,1.8,4.5,-1.2,2.6,-0.2,-4.2,3.8,-0.4,3.2,-1.0,-3.8,7.8,3.7,-5.5,-1.7,2.1,1.8,-3.9
+10000,Delaware,3,Current-dollar GDP (millions of current dollars),11.0,9.1,7.6,7.0,-1.6,4.2,7.6,1.3,5.6,2.4,-2.7,4.5,1.3,4.9,1.7,-1.4,10.7,5.9,-3.2,0.9,6.1,3.9,-2.0
+10000,Delaware,4,Compensation (millions of dollars),7.9,6.7,6.5,4.8,2.8,4.0,6.2,6.3,5.7,2.3,0.6,-4.0,1.2,4.6,2.8,2.2,4.8,3.3,0.6,4.6,4.0,4.1,(NA)
+10000,Delaware,5,Gross operating surplus (millions of dollars),14.2,11.5,8.3,10.6,-5.6,4.0,6.9,-3.2,5.8,2.7,-5.5,13.6,0.9,5.6,0.3,-5.1,16.2,8.5,-7.2,-2.6,8.2,3.3,(NA)
+10000,Delaware,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.9,5.8,11.0,-13.2,6.9,8.4,31.5,3.4,4.1,1.0,-5.5,0.5,5.7,-0.8,7.2,4.8,11.6,2.7,7.3,3.0,5.7,8.4,(NA)
+10000,Delaware,7,  Taxes on production and imports (TOPI) (millions of dollars),7.3,6.3,10.3,-12.3,6.7,8.4,29.8,4.4,3.3,1.2,-4.9,1.0,7.6,-0.7,6.0,4.7,10.3,1.7,7.1,2.7,5.1,8.4,(NA)
+10000,Delaware,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+11000,District of Columbia,1,Real GDP (millions of chained 2012 dollars),1.7,4.3,0.8,3.8,3.1,2.1,5.1,2.1,0.3,2.7,3.7,-0.4,3.4,1.8,0.6,0.2,1.8,1.9,2.1,0.7,2.0,1.0,-1.5
+11000,District of Columbia,2,Chain-type quantity indexes for real GDP,1.7,4.3,0.8,3.8,3.1,2.1,5.1,2.1,0.3,2.7,3.7,-0.4,3.4,1.8,0.6,0.2,1.8,1.9,2.1,0.7,2.0,1.0,-1.5
+11000,District of Columbia,3,Current-dollar GDP (millions of current dollars),4.4,7.2,3.9,7.3,7.0,5.9,8.6,5.9,3.8,6.2,5.8,1.4,5.1,3.7,2.4,2.1,4.1,4.3,3.7,2.6,4.5,3.3,0.1
+11000,District of Columbia,4,Compensation (millions of dollars),4.6,8.1,5.9,6.8,6.0,5.3,7.1,6.1,4.3,5.2,4.8,1.9,5.4,4.2,1.5,1.7,4.4,3.9,3.7,3.8,5.3,2.7,(NA)
+11000,District of Columbia,5,Gross operating surplus (millions of dollars),3.6,5.8,-0.9,9.9,9.4,4.3,11.2,6.3,2.6,7.8,9.1,1.1,4.4,3.4,3.3,2.9,3.0,4.3,3.9,-0.2,2.6,4.6,(NA)
+11000,District of Columbia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),6.0,0.6,-1.0,-3.7,6.5,42.2,20.7,-1.1,3.4,13.1,0.2,-6.8,6.7,-7.0,16.1,5.6,8.7,12.3,2.7,1.4,2.4,4.8,(NA)
+11000,District of Columbia,7,  Taxes on production and imports (TOPI) (millions of dollars),1.5,1.1,-1.5,-2.6,9.5,33.4,18.9,0.9,2.6,10.1,-0.2,-4.0,5.7,-1.7,9.8,4.6,7.8,10.5,3.0,0.8,3.2,4.1,(NA)
+11000,District of Columbia,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+12000,Florida,1,Real GDP (millions of chained 2012 dollars),5.0,4.3,4.4,2.7,4.0,4.4,6.0,6.5,3.4,0.1,-3.8,-5.5,1.0,-0.4,0.7,2.0,2.8,4.5,3.4,3.6,3.8,2.8,-2.9
+12000,Florida,2,Chain-type quantity indexes for real GDP,5.0,4.3,4.4,2.7,4.0,4.4,6.0,6.5,3.4,0.1,-3.8,-5.5,1.0,-0.4,0.7,2.0,2.8,4.5,3.4,3.6,3.8,2.8,-2.9
+12000,Florida,3,Current-dollar GDP (millions of current dollars),6.8,6.4,6.9,5.8,6.2,6.4,9.0,9.6,6.8,3.2,-2.3,-3.4,1.7,1.1,3.0,4.2,4.9,6.8,4.9,5.2,6.1,5.4,-1.0
+12000,Florida,4,Compensation (millions of dollars),8.6,6.3,8.6,6.2,4.4,5.8,7.8,8.6,6.1,3.3,-0.6,-5.3,1.2,2.0,4.1,3.9,5.1,6.4,4.5,5.5,6.2,5.1,(NA)
+12000,Florida,5,Gross operating surplus (millions of dollars),3.7,6.9,5.2,6.5,8.5,6.7,9.6,11.5,7.5,2.9,-4.6,0.4,3.2,0.6,1.7,4.5,5.5,8.4,5.2,4.4,5.8,5.9,(NA)
+12000,Florida,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),8.4,5.4,3.5,0.3,9.0,9.3,14.5,8.4,8.4,3.9,-3.1,-6.2,-1.2,-1.9,1.6,4.7,1.6,2.8,5.6,6.4,6.3,4.6,(NA)
+12000,Florida,7,  Taxes on production and imports (TOPI) (millions of dollars),8.1,5.4,3.3,1.4,8.1,9.8,14.2,8.9,7.6,4.1,-3.4,-5.7,-1.5,-1.2,1.2,4.5,1.5,2.7,5.6,6.2,6.3,4.6,(NA)
+12000,Florida,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+13000,Georgia,1,Real GDP (millions of chained 2012 dollars),7.3,7.1,3.4,1.0,1.2,2.8,4.5,3.8,1.2,0.4,-2.3,-3.9,1.3,1.7,1.3,1.4,3.4,4.1,3.4,3.7,3.7,1.6,-2.5
+13000,Georgia,2,Chain-type quantity indexes for real GDP,7.3,7.1,3.4,1.0,1.2,2.8,4.5,3.8,1.2,0.4,-2.3,-3.9,1.3,1.7,1.3,1.4,3.4,4.1,3.4,3.7,3.7,1.6,-2.5
+13000,Georgia,3,Current-dollar GDP (millions of current dollars),9.3,9.1,5.7,3.7,3.0,4.3,6.9,6.3,4.0,3.1,-0.7,-1.4,2.1,3.2,3.7,3.6,5.6,6.3,5.0,5.0,5.9,3.9,-1.0
+13000,Georgia,4,Compensation (millions of dollars),9.7,7.7,8.1,3.3,1.5,3.6,5.4,5.6,5.8,4.9,0.9,-3.3,1.0,3.7,3.6,3.7,5.4,5.4,4.1,4.7,4.6,4.6,(NA)
+13000,Georgia,5,Gross operating surplus (millions of dollars),9.5,11.1,2.4,4.4,5.2,5.2,8.7,7.0,0.9,1.1,-3.3,2.2,3.6,2.4,3.6,3.8,6.1,8.1,6.0,5.8,7.2,2.9,(NA)
+13000,Georgia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.2,8.8,6.4,2.0,1.5,4.6,8.2,6.8,9.2,-0.3,1.4,-6.6,2.7,3.2,4.5,1.2,4.3,1.7,5.6,2.2,8.8,5.9,(NA)
+13000,Georgia,7,  Taxes on production and imports (TOPI) (millions of dollars),5.3,9.5,6.1,3.7,1.2,4.6,6.1,8.5,7.8,-0.2,1.2,-5.8,1.8,3.5,4.3,1.0,4.1,1.6,5.9,1.9,8.4,6.8,(NA)
+13000,Georgia,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+15000,Hawaii,1,Real GDP (millions of chained 2012 dollars),-2.5,1.5,2.3,-0.5,3.2,5.0,6.7,5.6,2.7,1.1,0.7,-3.6,2.8,1.6,2.0,0.8,0.3,3.6,2.5,2.5,1.4,0.3,-8.0
+15000,Hawaii,2,Chain-type quantity indexes for real GDP,-2.5,1.5,2.3,-0.5,3.2,5.0,6.7,5.6,2.7,1.1,0.7,-3.6,2.8,1.6,2.0,0.8,0.3,3.6,2.5,2.5,1.4,0.3,-8.0
+15000,Hawaii,3,Current-dollar GDP (millions of current dollars),-0.2,4.3,5.8,3.5,5.7,7.6,9.9,9.1,6.3,4.6,2.5,-1.7,3.9,3.5,4.3,2.9,2.7,6.2,3.9,4.3,3.9,2.8,-6.1
+15000,Hawaii,4,Compensation (millions of dollars),2.3,3.1,5.5,5.0,6.2,6.8,7.3,6.8,5.8,5.6,3.0,-2.2,1.5,4.4,3.6,3.3,4.1,4.8,3.4,3.2,3.7,3.0,(NA)
+15000,Hawaii,5,Gross operating surplus (millions of dollars),-4.7,7.2,5.7,3.0,4.8,9.3,13.4,12.4,6.3,3.1,2.4,-0.4,7.1,1.5,4.3,2.3,-0.1,8.5,4.9,5.4,3.7,2.3,(NA)
+15000,Hawaii,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.2,1.3,7.7,-4.5,6.4,6.4,12.9,10.1,9.8,5.1,0.2,-4.9,5.4,6.8,9.1,3.3,5.6,5.5,3.3,6.3,5.6,4.6,(NA)
+15000,Hawaii,7,  Taxes on production and imports (TOPI) (millions of dollars),1.5,1.1,7.5,-1.3,3.0,7.9,11.1,10.7,8.9,5.5,-0.2,-4.1,4.8,6.8,8.5,3.1,5.5,5.4,3.2,6.0,5.3,4.5,(NA)
+15000,Hawaii,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+16000,Idaho,1,Real GDP (millions of chained 2012 dollars),4.9,9.5,11.4,-2.7,2.5,2.7,5.7,7.8,4.0,1.9,1.8,-4.5,1.5,-0.2,-0.1,3.8,2.8,2.6,3.8,4.2,5.9,3.4,-1.1
+16000,Idaho,2,Chain-type quantity indexes for real GDP,4.9,9.5,11.4,-2.7,2.5,2.7,5.7,7.8,4.0,1.9,1.8,-4.5,1.5,-0.2,-0.1,3.8,2.8,2.5,3.8,4.2,5.9,3.4,-1.1
+16000,Idaho,3,Current-dollar GDP (millions of current dollars),5.3,10.1,11.3,-1.7,3.5,4.1,8.5,9.3,6.3,5.6,3.2,-3.3,2.7,2.4,2.2,5.8,4.3,3.6,4.5,6.1,7.9,5.8,0.4
+16000,Idaho,4,Compensation (millions of dollars),6.5,7.3,10.4,2.4,3.0,3.6,7.1,7.5,10.5,5.6,-0.1,-4.5,1.1,1.4,2.6,5.7,3.9,4.9,5.5,7.8,7.0,5.4,(NA)
+16000,Idaho,5,Gross operating surplus (millions of dollars),4.3,14.9,13.6,-7.3,3.1,4.0,10.1,13.1,0.9,6.2,8.9,-1.5,4.9,3.1,1.5,6.0,4.4,2.2,3.0,3.8,9.3,6.9,(NA)
+16000,Idaho,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),1.4,5.9,4.1,0.9,11.3,9.1,10.9,2.5,5.4,2.6,-2.1,-4.5,1.8,5.9,3.9,6.7,7.3,1.9,6.6,6.6,6.9,1.5,(NA)
+16000,Idaho,7,  Taxes on production and imports (TOPI) (millions of dollars),5.2,6.1,5.6,-0.4,8.5,8.4,10.0,4.0,3.6,2.7,-1.6,-3.3,1.6,4.7,3.7,6.7,5.6,1.6,7.6,6.7,6.7,2.0,(NA)
+16000,Idaho,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+17000,Illinois,1,Real GDP (millions of chained 2012 dollars),3.2,3.7,3.7,0.2,0.7,1.5,2.9,1.9,2.6,1.0,-1.6,-2.6,1.5,1.8,2.0,-0.1,2.2,1.6,-0.2,0.8,2.3,0.5,-4.0
+17000,Illinois,2,Chain-type quantity indexes for real GDP,3.2,3.7,3.7,0.2,0.7,1.4,2.9,1.9,2.6,1.0,-1.6,-2.6,1.5,1.8,2.0,-0.1,2.2,1.6,-0.2,0.8,2.3,0.5,-4.0
+17000,Illinois,3,Current-dollar GDP (millions of current dollars),5.0,5.4,5.8,3.0,2.5,3.2,5.8,5.0,5.8,4.0,0.1,-0.6,2.6,4.0,4.8,1.9,4.3,3.8,1.1,2.5,4.8,2.6,-2.5
+17000,Illinois,4,Compensation (millions of dollars),7.3,5.7,6.4,3.4,1.4,1.8,4.6,4.5,5.5,5.0,1.8,-4.4,1.0,4.1,3.8,2.1,3.2,4.6,1.3,3.5,4.3,2.7,(NA)
+17000,Illinois,5,Gross operating surplus (millions of dollars),2.1,4.9,5.0,2.5,3.2,5.4,7.6,5.5,5.9,2.5,-3.2,6.2,5.4,3.9,5.9,1.2,5.2,2.5,0.9,0.6,5.0,2.4,(NA)
+17000,Illinois,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),1.4,5.4,4.7,1.8,8.7,4.1,6.7,6.7,7.9,3.7,3.2,-2.4,-0.7,3.1,6.1,4.4,7.3,4.9,0.7,5.1,6.5,2.9,(NA)
+17000,Illinois,7,  Taxes on production and imports (TOPI) (millions of dollars),2.3,7.6,4.5,2.6,4.1,5.2,6.7,8.0,5.8,3.2,3.0,-1.9,-0.8,3.4,5.4,4.3,6.2,4.8,1.6,4.0,6.9,4.0,(NA)
+17000,Illinois,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+18000,Indiana,1,Real GDP (millions of chained 2012 dollars),6.0,3.2,4.0,-2.0,2.4,3.8,3.4,0.4,2.1,2.6,-0.3,-7.0,6.4,0.4,0.4,2.1,3.2,-0.6,1.5,2.0,2.8,1.6,-3.1
+18000,Indiana,2,Chain-type quantity indexes for real GDP,6.0,3.2,4.0,-2.0,2.4,3.8,3.4,0.4,2.1,2.6,-0.3,-7.0,6.4,0.4,0.4,2.1,3.2,-0.6,1.5,2.0,2.8,1.6,-3.1
+18000,Indiana,3,Current-dollar GDP (millions of current dollars),8.2,4.5,5.5,0.7,3.8,5.2,6.0,2.9,4.8,5.3,1.5,-4.3,7.3,3.0,3.1,3.7,5.3,1.4,2.3,3.9,5.1,3.1,-1.9
+18000,Indiana,4,Compensation (millions of dollars),7.2,6.3,5.1,1.1,1.9,3.1,5.0,3.4,4.2,3.2,1.4,-6.2,2.9,3.9,4.8,1.9,4.6,3.9,3.1,4.3,4.6,3.1,(NA)
+18000,Indiana,5,Gross operating surplus (millions of dollars),10.8,2.2,6.3,-0.4,6.2,8.0,8.0,-0.4,5.7,11.5,0.6,-2.0,13.8,3.2,0.5,5.8,6.3,-1.4,1.8,3.2,5.8,3.1,(NA)
+18000,Indiana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),1.8,2.3,4.6,2.7,7.6,8.2,3.3,19.9,3.7,-11.9,8.4,-1.3,2.2,-5.3,7.4,3.3,3.1,0.2,-0.5,6.2,5.0,2.4,(NA)
+18000,Indiana,7,  Taxes on production and imports (TOPI) (millions of dollars),3.4,5.2,4.9,3.3,2.7,9.0,3.7,21.2,1.6,-12.0,8.1,-0.7,1.9,-4.2,6.7,3.4,1.6,0.3,1.4,4.7,5.4,4.2,(NA)
+18000,Indiana,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+19000,Iowa,1,Real GDP (millions of chained 2012 dollars),0.7,2.1,4.7,-1.2,2.8,4.0,8.3,2.8,1.5,4.4,-1.8,-2.3,2.7,1.4,3.7,0.0,4.9,3.0,-0.6,-0.3,2.3,0.4,-2.3
+19000,Iowa,2,Chain-type quantity indexes for real GDP,0.7,2.1,4.7,-1.2,2.8,4.0,8.3,2.8,1.5,4.4,-1.8,-2.3,2.7,1.4,3.7,0.0,4.9,3.0,-0.6,-0.3,2.3,0.4,-2.3
+19000,Iowa,3,Current-dollar GDP (millions of current dollars),2.4,3.7,6.1,1.9,4.4,5.9,11.2,4.6,3.9,8.0,0.0,-0.2,3.8,4.3,6.6,2.4,6.5,4.3,0.3,1.2,4.4,2.4,-1.0
+19000,Iowa,4,Compensation (millions of dollars),7.8,5.2,5.1,3.3,2.0,3.7,6.2,4.8,5.1,5.3,3.8,-1.5,1.7,3.1,5.1,2.9,5.4,3.7,3.0,2.9,3.9,2.4,(NA)
+19000,Iowa,5,Gross operating surplus (millions of dollars),-3.6,3.5,8.6,-0.3,4.7,10.1,18.9,5.8,0.8,10.9,-4.9,1.0,6.5,5.3,8.1,2.0,7.9,5.6,-3.8,-1.0,5.2,3.3,(NA)
+19000,Iowa,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-3.7,-10.1,-1.7,4.7,31.5,-1.0,2.8,-7.4,21.5,9.3,4.1,2.7,2.3,7.1,7.6,0.7,5.9,-2.1,10.6,3.6,2.3,-4.5,(NA)
+19000,Iowa,7,  Taxes on production and imports (TOPI) (millions of dollars),3.5,5.3,2.2,0.8,4.0,3.4,5.5,6.7,3.4,4.2,4.6,2.7,2.8,5.8,6.7,1.0,1.8,4.5,6.9,0.7,5.5,4.0,(NA)
+19000,Iowa,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+20000,Kansas,1,Real GDP (millions of chained 2012 dollars),3.4,2.4,2.7,0.2,1.4,1.6,0.7,3.4,5.4,5.2,2.4,-3.7,1.1,2.7,1.4,-0.3,2.7,2.6,3.1,1.3,2.4,1.2,-3.0
+20000,Kansas,2,Chain-type quantity indexes for real GDP,3.4,2.4,2.7,0.2,1.4,1.6,0.7,3.4,5.4,5.2,2.4,-3.7,1.1,2.7,1.4,-0.3,2.7,2.6,3.1,1.3,2.4,1.2,-3.0
+20000,Kansas,3,Current-dollar GDP (millions of current dollars),5.0,4.2,5.1,3.2,2.8,3.9,3.6,6.1,8.3,8.6,4.5,-2.4,2.6,5.9,3.9,1.6,4.1,3.4,3.4,3.0,4.7,2.8,-1.8
+20000,Kansas,4,Compensation (millions of dollars),7.6,5.8,5.8,3.6,1.6,2.1,5.4,4.0,6.2,6.8,4.6,-3.8,1.9,3.6,3.3,3.6,3.7,3.3,0.3,2.2,4.2,3.5,(NA)
+20000,Kansas,5,Gross operating surplus (millions of dollars),1.9,3.5,3.4,2.2,2.5,7.0,-1.1,11.5,11.3,12.7,5.0,-0.6,3.5,8.7,4.7,-0.7,4.5,3.8,7.2,3.9,5.7,2.5,(NA)
+20000,Kansas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-0.1,-7.0,8.4,5.7,15.5,4.2,12.8,-2.6,11.1,2.0,0.3,-0.8,2.1,8.9,3.5,0.4,5.1,1.3,5.4,3.5,3.1,-1.2,(NA)
+20000,Kansas,7,  Taxes on production and imports (TOPI) (millions of dollars),5.1,2.0,4.1,3.6,4.2,8.5,9.4,3.3,4.6,1.6,2.2,-0.8,1.6,8.3,3.3,3.1,3.6,-0.5,5.6,3.2,4.3,5.0,(NA)
+20000,Kansas,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+21000,Kentucky,1,Real GDP (millions of chained 2012 dollars),2.9,3.1,-2.6,0.0,2.6,2.4,2.5,3.3,2.8,-1.0,0.2,-4.0,4.2,1.1,1.2,1.8,0.2,1.4,0.5,0.6,1.6,1.8,-3.7
+21000,Kentucky,2,Chain-type quantity indexes for real GDP,2.9,3.1,-2.6,0.0,2.6,2.4,2.5,3.3,2.8,-1.0,0.2,-4.0,4.2,1.1,1.2,1.8,0.2,1.4,0.5,0.6,1.6,1.8,-3.7
+21000,Kentucky,3,Current-dollar GDP (millions of current dollars),4.6,5.1,-0.8,2.8,4.2,4.1,5.5,6.3,5.9,2.2,2.4,-1.4,5.6,3.1,3.7,3.5,2.2,3.4,1.6,2.3,3.7,3.6,-2.5
+21000,Kentucky,4,Compensation (millions of dollars),5.9,7.1,5.9,3.8,2.8,4.0,5.2,5.1,4.2,4.6,2.9,-3.1,3.4,3.3,3.6,1.1,3.3,4.9,1.9,2.8,3.6,3.7,(NA)
+21000,Kentucky,5,Gross operating surplus (millions of dollars),3.5,3.2,-11.6,1.4,6.4,5.6,5.8,8.5,8.6,-0.9,1.2,1.8,8.7,2.9,3.7,7.3,0.3,1.7,1.1,1.4,3.7,3.3,(NA)
+21000,Kentucky,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.4,0.8,7.3,1.9,4.8,-2.6,6.8,5.3,6.5,-0.4,4.2,-2.9,7.7,3.4,4.8,2.3,3.6,2.0,1.4,3.2,5.1,4.3,(NA)
+21000,Kentucky,7,  Taxes on production and imports (TOPI) (millions of dollars),3.0,1.8,9.1,1.0,2.8,-1.9,6.6,11.4,3.1,-1.0,4.0,-2.2,6.8,3.7,4.5,2.2,2.9,1.0,1.6,3.2,4.9,5.4,(NA)
+21000,Kentucky,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+22000,Louisiana,1,Real GDP (millions of chained 2012 dollars),3.4,2.0,-2.9,1.2,2.0,3.8,4.6,6.2,-1.0,-3.6,0.4,1.5,3.7,-5.5,-0.3,-3.1,2.8,-1.0,-2.2,1.5,2.7,2.1,-5.5
+22000,Louisiana,2,Chain-type quantity indexes for real GDP,3.4,2.0,-2.9,1.2,2.0,3.8,4.6,6.2,-1.0,-3.6,0.4,1.5,3.7,-5.5,-0.3,-3.1,2.8,-1.0,-2.2,1.5,2.7,2.1,-5.5
+22000,Louisiana,3,Current-dollar GDP (millions of current dollars),3.4,4.6,5.4,3.9,1.2,10.7,10.0,16.5,4.1,0.3,4.2,-3.8,9.2,1.4,1.9,-2.1,3.9,-2.5,-3.6,5.5,7.4,1.5,-5.8
+22000,Louisiana,4,Compensation (millions of dollars),6.4,2.1,4.0,5.7,3.6,4.0,4.8,3.8,6.3,7.4,6.3,-0.8,2.7,1.7,3.4,2.9,4.6,1.6,-1.3,2.3,4.3,1.8,(NA)
+22000,Louisiana,5,Gross operating surplus (millions of dollars),-0.7,8.4,7.5,1.3,-2.4,21.8,16.7,31.1,1.4,-5.4,2.2,-6.7,16.9,0.4,0.3,-7.9,3.3,-7.5,-8.0,9.5,12.0,-0.2,(NA)
+22000,Louisiana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.2,3.2,3.9,5.9,4.5,0.9,6.0,7.7,10.9,-3.0,3.0,-4.9,5.3,6.3,1.9,4.1,3.1,-0.7,5.9,7.1,3.8,8.6,(NA)
+22000,Louisiana,7,  Taxes on production and imports (TOPI) (millions of dollars),4.8,4.6,4.0,6.1,2.6,2.4,4.3,8.0,10.4,7.4,-1.1,-7.6,3.3,5.7,1.6,3.6,2.2,-0.8,6.3,6.5,3.7,9.0,(NA)
+22000,Louisiana,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+23000,Maine,1,Real GDP (millions of chained 2012 dollars),2.8,4.9,4.6,1.8,2.5,2.2,3.5,0.1,1.3,-0.5,-0.2,-1.6,1.3,-1.3,-0.4,-0.8,1.9,0.8,2.2,1.6,2.4,2.6,-4.1
+23000,Maine,2,Chain-type quantity indexes for real GDP,2.8,4.9,4.6,1.8,2.5,2.2,3.5,0.1,1.3,-0.5,-0.2,-1.6,1.3,-1.3,-0.4,-0.8,1.9,0.8,2.2,1.6,2.4,2.6,-4.1
+23000,Maine,3,Current-dollar GDP (millions of current dollars),5.0,6.9,7.2,4.5,4.4,4.1,6.4,3.0,4.5,2.6,1.7,1.2,2.3,0.3,1.9,1.5,4.0,3.1,3.8,3.2,4.7,4.9,-2.2
+23000,Maine,4,Compensation (millions of dollars),6.2,6.7,6.5,5.7,3.9,4.2,5.5,2.0,5.6,3.9,2.8,-2.6,1.1,1.5,2.4,2.5,3.4,4.0,3.0,3.8,4.8,4.9,(NA)
+23000,Maine,5,Gross operating surplus (millions of dollars),2.1,10.2,8.8,2.3,4.7,3.3,8.7,4.6,2.2,2.4,-0.4,9.3,3.4,-1.8,0.8,-0.5,4.2,1.1,5.5,2.5,4.5,5.5,(NA)
+23000,Maine,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.7,-2.7,5.4,4.7,6.2,6.5,4.5,4.2,5.9,-5.3,1.6,-3.0,5.9,0.9,3.6,2.8,7.4,4.7,2.9,2.1,4.8,2.8,(NA)
+23000,Maine,7,  Taxes on production and imports (TOPI) (millions of dollars),7.5,-2.5,5.4,4.6,6.5,6.7,4.5,4.6,5.6,-4.9,1.3,-2.1,6.0,1.0,3.2,2.7,7.0,4.2,2.9,1.9,4.8,2.7,(NA)
+23000,Maine,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+24000,Maryland,1,Real GDP (millions of chained 2012 dollars),4.8,3.9,4.1,4.0,3.8,2.6,5.0,4.8,1.8,0.1,1.2,-0.3,3.9,2.1,0.2,0.0,1.7,2.7,3.1,1.6,0.8,1.4,-2.6
+24000,Maryland,2,Chain-type quantity indexes for real GDP,4.8,3.9,4.1,4.0,3.8,2.6,5.0,4.8,1.8,0.1,1.2,-0.3,3.9,2.1,0.2,0.0,1.7,2.7,3.1,1.6,0.8,1.4,-2.6
+24000,Maryland,3,Current-dollar GDP (millions of current dollars),6.7,6.0,6.6,7.1,6.2,4.8,7.8,7.9,5.0,3.0,3.0,2.0,4.6,3.6,2.1,1.8,3.7,5.0,4.5,3.1,3.0,3.7,-0.9
+24000,Maryland,4,Compensation (millions of dollars),7.1,6.8,7.9,5.9,5.0,4.7,6.3,5.8,5.1,4.6,2.6,0.2,2.5,4.0,2.5,1.4,3.5,4.3,3.0,3.3,3.7,3.4,(NA)
+24000,Maryland,5,Gross operating surplus (millions of dollars),5.9,5.3,3.6,9.3,8.4,4.9,10.5,9.9,5.0,1.0,4.3,6.6,6.3,3.4,1.4,2.0,3.1,6.2,7.0,2.7,1.6,3.8,(NA)
+24000,Maryland,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),6.7,2.7,11.1,6.1,5.0,4.5,6.8,15.4,4.5,0.3,-1.6,-8.5,14.7,0.9,3.1,4.6,8.8,3.0,2.5,4.6,5.9,5.7,(NA)
+24000,Maryland,7,  Taxes on production and imports (TOPI) (millions of dollars),5.9,2.9,10.6,6.3,4.7,5.2,6.6,15.7,4.0,0.8,-1.8,-7.3,13.6,1.3,2.7,4.3,8.2,2.7,2.6,4.3,5.6,5.8,(NA)
+24000,Maryland,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+25000,Massachusetts,1,Real GDP (millions of chained 2012 dollars),4.1,5.5,8.1,1.3,0.3,2.7,2.5,2.0,1.7,2.6,0.9,-1.0,4.2,2.4,2.1,0.4,1.7,4.0,1.5,2.4,3.4,2.4,-3.8
+25000,Massachusetts,2,Chain-type quantity indexes for real GDP,4.1,5.5,8.1,1.3,0.3,2.7,2.5,2.0,1.7,2.6,0.9,-1.0,4.2,2.4,2.1,0.4,1.7,4.0,1.5,2.4,3.4,2.4,-3.8
+25000,Massachusetts,3,Current-dollar GDP (millions of current dollars),5.1,6.4,9.2,2.9,2.0,3.9,4.7,4.6,4.5,5.2,2.1,0.8,4.8,3.9,4.3,2.5,3.8,6.4,3.2,4.0,5.6,4.6,-2.1
+25000,Massachusetts,4,Compensation (millions of dollars),8.1,8.4,12.5,1.6,-1.3,1.5,6.1,3.3,5.3,6.5,3.1,-3.8,3.6,4.7,4.1,3.0,4.9,6.0,2.8,5.2,5.3,4.8,(NA)
+25000,Massachusetts,5,Gross operating surplus (millions of dollars),0.5,3.2,4.4,4.9,7.5,7.5,2.2,6.6,3.5,3.8,0.4,8.2,6.5,2.6,4.8,1.3,1.8,7.2,3.6,2.4,6.2,4.4,(NA)
+25000,Massachusetts,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),6.5,6.0,4.8,4.3,4.9,6.5,8.5,3.9,2.6,-0.4,1.5,2.0,5.7,4.0,3.2,6.6,7.8,3.7,4.2,3.0,5.6,3.0,(NA)
+25000,Massachusetts,7,  Taxes on production and imports (TOPI) (millions of dollars),5.8,5.8,4.3,4.9,4.9,7.0,8.0,4.3,1.9,0.2,1.1,2.8,5.4,3.0,4.4,6.2,7.3,3.3,4.3,2.5,5.5,2.9,(NA)
+25000,Massachusetts,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+26000,Michigan,1,Real GDP (millions of chained 2012 dollars),2.3,5.7,2.0,-3.3,2.7,1.7,0.4,1.4,-1.6,-0.6,-5.6,-8.8,5.5,2.6,1.8,1.6,1.3,2.6,2.0,1.4,2.3,0.8,-5.4
+26000,Michigan,2,Chain-type quantity indexes for real GDP,2.3,5.7,2.0,-3.3,2.7,1.7,0.4,1.4,-1.6,-0.6,-5.6,-8.8,5.5,2.6,1.8,1.6,1.3,2.6,2.0,1.4,2.3,0.8,-5.4
+26000,Michigan,3,Current-dollar GDP (millions of current dollars),4.3,8.0,4.1,-0.9,3.9,2.9,2.3,3.3,0.4,2.0,-4.4,-5.3,5.8,3.7,4.4,3.6,3.4,5.5,3.3,2.6,4.0,2.9,-3.9
+26000,Michigan,4,Compensation (millions of dollars),5.9,7.0,5.9,-0.4,0.4,2.0,2.7,2.2,0.8,1.2,-0.9,-7.5,1.6,4.4,3.5,2.5,4.0,5.3,3.4,4.4,3.9,2.5,(NA)
+26000,Michigan,5,Gross operating surplus (millions of dollars),1.4,11.5,-0.1,-1.9,11.0,3.4,0.9,4.4,-0.5,3.1,-10.4,-3.4,14.7,4.0,6.5,5.4,3.0,6.9,3.1,0.4,3.4,4.5,(NA)
+26000,Michigan,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.3,0.4,9.8,-0.1,1.7,8.8,5.3,7.7,1.5,3.1,-4.0,3.9,-0.7,-2.4,0.8,2.5,1.5,-1.0,4.2,1.1,7.8,-3.1,(NA)
+26000,Michigan,7,  Taxes on production and imports (TOPI) (millions of dollars),5.5,1.2,9.1,0.5,0.7,9.4,4.9,8.4,0.9,2.9,-4.0,4.3,-0.9,-1.6,0.5,2.4,1.0,-0.7,4.2,0.9,7.6,-2.5,(NA)
+26000,Michigan,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+27000,Minnesota,1,Real GDP (millions of chained 2012 dollars),5.3,3.4,6.8,-0.1,2.3,4.3,4.2,2.8,0.0,0.5,0.8,-3.5,3.5,2.3,1.4,2.3,2.9,1.5,1.6,1.8,2.9,1.1,-3.7
+27000,Minnesota,2,Chain-type quantity indexes for real GDP,5.3,3.4,6.8,-0.1,2.3,4.3,4.2,2.8,0.0,0.5,0.8,-3.5,3.5,2.3,1.4,2.3,2.9,1.5,1.6,1.8,2.9,1.1,-3.7
+27000,Minnesota,3,Current-dollar GDP (millions of current dollars),6.8,5.0,9.0,2.3,3.9,5.9,7.2,5.6,2.9,3.7,2.1,-1.6,4.7,4.7,3.8,4.2,4.5,3.2,2.6,3.4,5.2,3.2,-2.5
+27000,Minnesota,4,Compensation (millions of dollars),9.1,6.4,8.5,3.7,2.1,3.8,5.6,3.0,3.4,5.9,3.2,-4.9,2.9,4.5,3.2,3.4,4.8,4.8,2.9,4.8,4.3,3.3,(NA)
+27000,Minnesota,5,Gross operating surplus (millions of dollars),3.2,4.4,9.3,-0.3,6.5,10.9,9.8,10.1,1.4,0.5,0.5,3.0,6.5,5.0,5.2,4.0,5.2,1.0,1.4,1.5,6.8,3.0,(NA)
+27000,Minnesota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.2,-5.8,12.2,2.5,8.4,-0.2,7.6,3.6,7.9,1.2,1.3,2.7,10.0,4.1,0.9,12.9,-1.4,2.4,6.9,2.8,4.7,2.7,(NA)
+27000,Minnesota,7,  Taxes on production and imports (TOPI) (millions of dollars),8.5,-1.3,11.3,2.3,1.6,2.5,6.0,7.7,3.5,0.6,1.9,2.7,8.6,4.5,0.9,12.4,-2.2,4.4,5.4,2.1,5.7,4.9,(NA)
+27000,Minnesota,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+28000,Mississippi,1,Real GDP (millions of chained 2012 dollars),2.4,2.7,0.5,-0.8,1.2,4.2,1.9,1.9,2.6,2.5,4.1,-4.5,0.3,-1.3,0.9,-0.2,0.0,0.5,0.4,0.7,1.0,0.6,-2.8
+28000,Mississippi,2,Chain-type quantity indexes for real GDP,2.4,2.7,0.5,-0.8,1.2,4.2,1.9,1.9,2.6,2.5,4.1,-4.5,0.3,-1.3,0.9,-0.2,0.0,0.5,0.4,0.7,1.0,0.6,-2.8
+28000,Mississippi,3,Current-dollar GDP (millions of current dollars),4.4,4.7,2.8,2.3,2.8,6.6,5.0,5.1,6.0,6.0,6.3,-3.5,1.9,1.2,3.3,1.9,2.0,1.8,1.0,2.8,3.8,2.1,-1.5
+28000,Mississippi,4,Compensation (millions of dollars),7.1,4.6,3.7,2.1,3.4,3.6,5.7,4.5,5.2,4.6,3.6,-2.8,1.0,1.6,3.8,1.8,3.0,2.0,2.0,2.3,3.1,2.7,(NA)
+28000,Mississippi,5,Gross operating surplus (millions of dollars),-1.5,5.8,1.0,5.7,-0.2,12.4,3.2,7.0,6.2,10.0,9.6,-3.8,2.1,0.3,2.5,1.6,-0.1,1.6,-0.7,3.8,4.9,0.6,(NA)
+28000,Mississippi,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),13.1,0.4,4.1,-10.0,13.4,3.2,9.1,0.6,10.4,-2.6,8.7,-7.6,7.6,3.3,4.3,3.8,5.5,2.0,2.4,1.5,3.8,5.3,(NA)
+28000,Mississippi,7,  Taxes on production and imports (TOPI) (millions of dollars),13.9,3.0,4.2,1.1,1.2,4.4,6.7,6.1,6.3,1.1,1.5,-4.8,3.9,3.5,3.4,3.6,4.7,1.6,3.9,1.2,4.2,7.8,(NA)
+28000,Mississippi,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+29000,Missouri,1,Real GDP (millions of chained 2012 dollars),1.8,2.9,2.7,-0.7,1.4,2.5,2.2,1.8,0.4,0.0,2.7,-2.5,1.6,-1.0,1.0,1.0,0.5,1.3,0.0,1.1,1.9,1.0,-3.6
+29000,Missouri,2,Chain-type quantity indexes for real GDP,1.8,2.9,2.7,-0.7,1.4,2.5,2.2,1.8,0.4,0.0,2.7,-2.5,1.6,-1.0,1.0,1.0,0.5,1.3,0.0,1.1,1.9,1.0,-3.6
+29000,Missouri,3,Current-dollar GDP (millions of current dollars),4.0,4.9,5.1,2.0,3.3,4.3,5.0,4.5,3.5,3.2,4.7,-0.1,2.6,0.7,3.5,3.2,2.5,3.4,1.3,2.6,4.1,3.3,-2.0
+29000,Missouri,4,Compensation (millions of dollars),5.8,5.9,6.4,2.6,2.7,2.9,4.2,4.7,5.0,4.2,4.2,-3.4,0.4,1.4,3.9,3.1,3.0,4.8,1.8,4.0,4.6,3.7,(NA)
+29000,Missouri,5,Gross operating surplus (millions of dollars),1.1,3.4,3.7,1.2,3.3,7.0,5.8,3.8,1.3,1.5,6.2,6.0,5.8,-0.5,3.3,3.6,1.8,1.7,0.3,0.2,3.0,2.9,(NA)
+29000,Missouri,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.8,3.6,1.0,1.2,8.2,0.9,7.4,7.0,2.8,4.4,1.1,-4.6,2.8,2.0,1.9,1.7,2.2,1.2,3.3,4.6,5.3,1.3,(NA)
+29000,Missouri,7,  Taxes on production and imports (TOPI) (millions of dollars),5.6,5.7,2.0,2.4,3.4,2.4,6.0,8.7,1.1,4.0,2.0,-3.9,2.0,2.6,1.4,2.5,2.3,-0.7,4.1,4.2,5.9,4.3,(NA)
+29000,Missouri,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+30000,Montana,1,Real GDP (millions of chained 2012 dollars),4.4,0.4,2.6,0.6,3.0,4.1,4.3,5.0,3.8,5.0,-0.7,-1.8,3.1,2.3,1.3,0.9,2.0,4.1,-1.0,2.0,2.5,2.8,-3.0
+30000,Montana,2,Chain-type quantity indexes for real GDP,4.4,0.4,2.6,0.6,3.0,4.1,4.3,5.0,3.8,5.0,-0.7,-1.8,3.1,2.3,1.3,0.9,2.0,4.1,-1.0,2.0,2.5,2.8,-3.0
+30000,Montana,3,Current-dollar GDP (millions of current dollars),5.8,1.8,5.1,4.2,4.7,7.5,8.8,9.4,8.0,9.5,2.0,-2.1,5.7,6.6,3.5,2.6,3.4,3.7,-1.3,5.0,5.7,4.4,-2.7
+30000,Montana,4,Compensation (millions of dollars),5.6,4.2,6.7,5.3,5.4,5.4,6.2,7.4,8.0,7.5,3.5,-2.1,2.5,5.0,4.9,2.9,4.1,4.4,2.1,5.1,4.2,4.1,(NA)
+30000,Montana,5,Gross operating surplus (millions of dollars),8.0,0.5,2.4,3.8,1.8,11.5,11.6,13.4,7.1,12.1,0.0,-2.4,10.7,8.6,1.5,2.3,1.9,3.7,-5.4,5.0,7.5,5.1,(NA)
+30000,Montana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-4.5,-10.7,8.4,-4.1,18.5,1.6,15.4,1.6,14.9,8.8,3.1,-0.5,0.0,6.6,6.2,2.1,8.2,-2.5,-2.6,3.7,7.8,2.3,(NA)
+30000,Montana,7,  Taxes on production and imports (TOPI) (millions of dollars),3.0,-0.8,5.7,-1.6,1.7,6.3,8.2,7.2,7.1,7.8,4.5,-0.1,0.6,5.9,3.1,3.4,3.5,-3.7,1.0,7.1,6.4,2.4,(NA)
+30000,Montana,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+31000,Nebraska,1,Real GDP (millions of chained 2012 dollars),2.3,2.0,3.7,2.3,1.6,5.5,2.4,3.4,2.8,2.2,0.5,0.3,3.7,5.0,-0.1,1.3,3.3,3.1,0.8,1.9,1.2,2.0,-2.1
+31000,Nebraska,2,Chain-type quantity indexes for real GDP,2.3,2.0,3.7,2.3,1.6,5.5,2.4,3.4,2.8,2.2,0.5,0.3,3.7,5.0,-0.1,1.3,3.3,3.1,0.8,1.9,1.2,2.0,-2.1
+31000,Nebraska,3,Current-dollar GDP (millions of current dollars),3.9,3.4,5.3,5.4,3.4,7.8,5.9,5.4,5.6,6.4,2.8,1.7,5.4,8.9,2.7,3.8,4.6,3.8,1.1,3.5,3.1,4.3,-0.9
+31000,Nebraska,4,Compensation (millions of dollars),6.5,6.1,6.1,4.7,4.0,4.1,4.8,4.3,5.2,5.3,3.7,-0.8,0.7,2.8,5.6,2.2,5.0,4.7,2.4,4.1,4.5,3.6,(NA)
+31000,Nebraska,5,Gross operating surplus (millions of dollars),2.8,2.3,4.0,6.0,-0.8,13.3,7.0,8.8,5.2,7.4,2.0,5.7,11.1,16.7,-0.2,5.5,3.5,3.1,-0.4,2.7,1.0,6.0,(NA)
+31000,Nebraska,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-11.1,-16.1,4.9,10.1,31.4,9.2,9.2,-6.1,13.2,10.1,0.9,-2.5,7.3,3.2,1.3,4.1,10.2,2.7,1.4,3.7,6.6,-2.6,(NA)
+31000,Nebraska,7,  Taxes on production and imports (TOPI) (millions of dollars),-1.3,2.0,3.2,6.9,4.0,12.1,7.8,6.9,0.1,4.5,2.7,-2.8,5.4,4.0,1.4,6.6,8.8,2.9,2.1,2.7,4.7,3.8,(NA)
+31000,Nebraska,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+32000,Nevada,1,Real GDP (millions of chained 2012 dollars),5.4,6.9,4.2,1.2,3.3,4.5,11.0,8.6,4.2,-0.2,-4.0,-8.3,1.4,0.7,-1.5,0.4,0.8,4.2,2.8,3.6,4.2,2.7,-4.6
+32000,Nevada,2,Chain-type quantity indexes for real GDP,5.4,6.9,4.2,1.2,3.3,4.5,11.0,8.6,4.2,-0.2,-4.0,-8.3,1.4,0.7,-1.5,0.4,0.8,4.2,2.8,3.6,4.2,2.7,-4.6
+32000,Nevada,3,Current-dollar GDP (millions of current dollars),8.1,9.7,7.3,4.9,5.5,6.6,14.5,13.2,8.5,3.5,-1.8,-6.3,2.2,2.4,0.9,2.3,2.9,6.7,4.7,5.5,6.7,5.3,-3.1
+32000,Nevada,4,Compensation (millions of dollars),10.0,9.8,7.3,6.0,3.2,7.4,11.2,10.3,7.5,6.0,0.1,-7.9,-1.7,0.8,3.3,2.8,6.8,5.8,5.0,5.0,5.9,5.4,(NA)
+32000,Nevada,5,Gross operating surplus (millions of dollars),5.7,9.7,7.1,3.7,8.7,6.5,17.0,16.2,10.8,0.2,-5.1,-3.8,7.2,4.3,-1.5,0.6,-2.0,8.3,2.4,6.9,6.8,5.1,(NA)
+32000,Nevada,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.0,9.7,7.9,2.0,7.3,1.1,26.4,17.4,4.3,4.0,1.3,-6.7,4.1,3.9,-2.0,6.9,2.3,5.4,12.6,2.4,11.0,6.0,(NA)
+32000,Nevada,7,  Taxes on production and imports (TOPI) (millions of dollars),6.8,9.6,7.7,4.2,5.5,2.2,24.7,17.6,3.7,4.5,1.0,-6.3,3.6,4.0,-2.3,6.8,2.7,5.3,12.3,2.3,11.0,6.1,(NA)
+32000,Nevada,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+33000,New Hampshire,1,Real GDP (millions of chained 2012 dollars),6.6,2.8,6.9,1.3,2.8,4.3,3.1,1.3,2.5,-0.4,-1.1,-0.8,3.2,0.6,1.2,0.7,2.0,2.8,2.2,1.7,2.6,1.4,-4.7
+33000,New Hampshire,2,Chain-type quantity indexes for real GDP,6.6,2.8,6.9,1.3,2.8,4.3,3.1,1.3,2.5,-0.4,-1.1,-0.8,3.2,0.6,1.2,0.7,2.0,2.8,2.2,1.7,2.6,1.4,-4.7
+33000,New Hampshire,3,Current-dollar GDP (millions of current dollars),6.2,3.2,8.0,3.1,4.4,5.5,5.3,4.1,5.4,2.2,0.3,1.7,3.7,2.0,3.3,2.7,4.0,4.9,3.5,3.0,4.6,3.6,-2.9
+33000,New Hampshire,4,Compensation (millions of dollars),9.1,6.3,10.8,4.0,1.8,4.1,6.4,4.7,5.4,3.9,2.5,-2.1,1.6,3.5,2.0,3.0,5.1,4.1,3.3,3.8,4.1,4.0,(NA)
+33000,New Hampshire,5,Gross operating surplus (millions of dollars),2.8,-2.1,4.4,1.9,8.6,6.8,3.5,3.4,6.1,-0.2,-3.2,8.0,7.7,-0.7,5.2,1.6,1.5,6.3,3.7,0.9,5.5,3.3,(NA)
+33000,New Hampshire,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.6,9.0,4.1,1.8,5.5,10.5,6.3,3.0,2.2,1.0,-0.4,3.3,-1.2,4.2,4.7,7.2,8.4,4.3,4.1,6.9,4.4,1.8,(NA)
+33000,New Hampshire,7,  Taxes on production and imports (TOPI) (millions of dollars),3.4,8.9,4.0,2.3,5.6,10.9,6.2,3.5,1.7,1.2,-0.5,3.9,-1.1,4.5,4.0,6.8,8.0,4.1,4.1,6.6,4.2,1.8,(NA)
+33000,New Hampshire,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+34000,New Jersey,1,Real GDP (millions of chained 2012 dollars),1.8,3.5,5.4,0.7,2.2,2.6,1.6,1.2,2.1,0.5,1.2,-4.1,1.1,-1.1,1.7,1.4,-0.5,2.1,1.0,0.1,1.5,1.4,-4.1
+34000,New Jersey,2,Chain-type quantity indexes for real GDP,1.8,3.5,5.4,0.7,2.2,2.6,1.6,1.2,2.1,0.5,1.2,-4.1,1.1,-1.1,1.7,1.4,-0.5,2.1,1.0,0.1,1.5,1.4,-4.1
+34000,New Jersey,3,Current-dollar GDP (millions of current dollars),3.9,5.3,7.5,3.2,3.9,4.3,4.4,4.2,5.4,3.5,3.0,-1.7,1.8,0.8,4.1,3.4,1.5,4.3,2.2,1.6,3.8,3.6,-2.5
+34000,New Jersey,4,Compensation (millions of dollars),7.7,5.0,9.4,2.2,2.6,3.1,4.7,4.4,4.2,4.2,1.8,-3.1,1.0,1.8,3.0,2.9,2.9,3.7,1.8,3.1,4.0,3.7,(NA)
+34000,New Jersey,5,Gross operating surplus (millions of dollars),-2.7,6.4,5.8,5.3,6.0,5.7,3.4,3.7,6.8,2.1,5.6,0.7,2.7,-1.4,6.2,3.4,-1.3,6.4,3.1,-1.2,2.6,2.2,(NA)
+34000,New Jersey,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.9,2.7,2.0,2.5,4.3,6.7,6.8,5.3,7.8,4.8,-0.4,-3.4,3.3,4.1,2.4,7.0,5.2,-0.1,0.7,4.4,7.2,8.0,(NA)
+34000,New Jersey,7,  Taxes on production and imports (TOPI) (millions of dollars),7.3,2.8,1.7,2.9,4.1,7.0,6.7,5.4,7.2,4.9,-0.5,-2.8,2.9,4.4,2.0,6.7,5.0,-0.2,0.9,3.9,6.9,7.8,(NA)
+34000,New Jersey,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+35000,New Mexico,1,Real GDP (millions of chained 2012 dollars),-0.5,5.4,1.8,0.1,3.1,3.8,7.4,1.2,2.5,0.7,-0.6,2.0,-0.7,0.2,0.5,-1.2,3.2,2.6,0.0,0.1,2.3,5.2,-3.1
+35000,New Mexico,2,Chain-type quantity indexes for real GDP,-0.5,5.4,1.8,0.1,3.1,3.8,7.4,1.2,2.5,0.7,-0.6,2.0,-0.7,0.2,0.5,-1.2,3.2,2.6,0.0,0.1,2.3,5.2,-3.1
+35000,New Mexico,3,Current-dollar GDP (millions of current dollars),-3.5,4.8,4.1,1.3,3.7,8.3,10.9,5.7,5.1,4.1,3.9,-2.0,2.5,3.1,1.1,1.0,4.6,-1.4,-0.1,3.5,6.0,5.1,-4.6
+35000,New Mexico,4,Compensation (millions of dollars),5.4,3.3,6.9,6.3,5.3,5.3,6.4,6.6,6.7,5.5,4.5,-1.9,1.6,2.4,2.7,0.8,2.8,2.7,0.8,2.4,4.8,4.6,(NA)
+35000,New Mexico,5,Gross operating surplus (millions of dollars),-11.8,6.4,1.1,-3.7,2.4,12.8,15.6,5.6,1.7,1.8,2.9,-0.8,4.3,4.4,-1.7,1.0,5.5,-5.8,-0.8,4.5,6.6,5.2,(NA)
+35000,New Mexico,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-0.8,4.4,4.3,-1.1,-0.1,3.3,13.9,-0.6,17.8,8.2,5.9,-10.2,-2.3,0.8,8.7,2.7,12.2,-2.6,-2.4,6.0,10.0,7.8,(NA)
+35000,New Mexico,7,  Taxes on production and imports (TOPI) (millions of dollars),-0.2,5.1,3.7,-0.3,-0.9,3.9,12.9,1.1,16.1,8.0,5.5,-9.0,-2.2,1.2,8.1,2.9,12.7,-4.2,-1.9,5.8,9.9,8.0,(NA)
+35000,New Mexico,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+36000,New York,1,Real GDP (millions of chained 2012 dollars),1.9,5.1,3.7,2.1,-0.8,0.3,2.5,3.4,2.5,0.6,-2.1,3.7,3.8,0.2,4.2,0.2,1.7,1.8,1.9,1.9,3.0,1.6,-5.9
+36000,New York,2,Chain-type quantity indexes for real GDP,1.9,5.1,3.7,2.1,-0.8,0.3,2.5,3.4,2.5,0.6,-2.1,3.7,3.8,0.2,4.2,0.2,1.7,1.8,1.9,1.9,3.0,1.6,-5.9
+36000,New York,3,Current-dollar GDP (millions of current dollars),3.6,6.4,5.5,4.5,1.2,2.1,5.5,6.3,5.6,3.8,-0.7,4.5,5.3,2.0,7.0,2.9,4.7,4.2,4.1,4.1,6.0,3.9,-4.1
+36000,New York,4,Compensation (millions of dollars),7.6,5.9,9.4,2.5,-1.3,2.4,6.2,4.9,7.1,8.1,2.5,-5.6,4.1,3.4,3.1,2.9,5.3,4.3,1.7,5.4,5.0,4.2,(NA)
+36000,New York,5,Gross operating surplus (millions of dollars),-1.6,7.7,0.5,8.0,4.6,0.2,3.6,7.4,3.3,-2.3,-5.7,23.7,6.0,0.0,12.9,2.4,3.9,4.1,7.5,2.8,7.7,4.5,(NA)
+36000,New York,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.6,3.9,2.2,2.5,3.2,10.5,11.2,11.0,6.2,3.1,-2.6,-0.1,11.3,3.2,4.4,6.2,4.7,3.7,1.8,2.0,3.6,-1.1,(NA)
+36000,New York,7,  Taxes on production and imports (TOPI) (millions of dollars),1.2,3.7,1.9,2.7,3.5,10.1,10.4,11.0,5.1,3.1,-2.4,0.7,10.5,3.6,4.0,5.9,4.5,3.6,2.0,1.8,3.7,-0.9,(NA)
+36000,New York,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+37000,North Carolina,1,Real GDP (millions of chained 2012 dollars),3.5,5.5,3.5,0.8,1.4,2.4,3.5,4.8,6.3,1.2,2.3,-4.3,1.5,1.0,0.3,1.3,2.3,3.1,1.7,2.4,2.6,1.9,-2.5
+37000,North Carolina,2,Chain-type quantity indexes for real GDP,3.5,5.5,3.5,0.8,1.4,2.4,3.5,4.8,6.3,1.2,2.3,-4.3,1.5,1.0,0.3,1.3,2.3,3.1,1.7,2.4,2.6,1.9,-2.5
+37000,North Carolina,3,Current-dollar GDP (millions of current dollars),5.5,7.3,5.0,3.7,3.4,3.8,5.8,7.4,9.0,3.6,4.1,-1.5,2.2,2.6,3.0,3.6,4.6,5.6,3.5,4.0,4.9,4.3,-0.9
+37000,North Carolina,4,Compensation (millions of dollars),7.6,7.1,6.9,3.0,1.6,3.3,6.0,5.8,6.9,6.3,2.2,-3.7,2.4,2.8,4.5,2.4,5.4,5.0,3.7,4.6,5.4,5.1,(NA)
+37000,North Carolina,5,Gross operating surplus (millions of dollars),2.9,7.9,2.1,5.5,5.2,4.1,5.3,9.8,11.4,1.0,7.1,-1.5,2.0,3.0,1.4,5.6,3.3,7.1,3.1,3.5,4.4,3.6,(NA)
+37000,North Carolina,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.1,4.4,5.8,-2.2,8.5,6.8,7.1,5.7,10.8,-1.3,1.4,18.4,1.8,-0.5,2.0,0.7,6.6,0.6,3.8,2.4,3.5,1.4,(NA)
+37000,North Carolina,7,  Taxes on production and imports (TOPI) (millions of dollars),4.2,5.3,6.4,-1.4,7.4,7.1,6.0,10.0,8.1,-1.3,1.0,18.0,1.6,-0.1,2.0,0.6,6.0,-0.2,4.1,2.2,3.3,2.2,(NA)
+37000,North Carolina,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+38000,North Dakota,1,Real GDP (millions of chained 2012 dollars),5.6,0.1,3.8,1.7,5.3,6.0,0.9,3.2,4.1,4.7,7.9,2.9,7.6,11.1,22.3,1.5,8.0,-2.6,-7.1,0.3,4.3,0.9,-3.5
+38000,North Dakota,2,Chain-type quantity indexes for real GDP,5.6,0.1,3.8,1.7,5.3,6.0,0.9,3.2,4.1,4.7,7.9,2.9,7.6,11.1,22.3,1.5,8.0,-2.6,-7.1,0.3,4.3,0.9,-3.5
+38000,North Dakota,3,Current-dollar GDP (millions of current dollars),6.7,1.1,5.9,5.3,6.7,9.1,4.9,5.7,7.1,9.8,10.7,1.2,10.7,16.1,24.6,4.1,9.2,-6.2,-7.8,3.6,7.0,1.6,-5.5
+38000,North Dakota,4,Compensation (millions of dollars),5.4,4.1,5.6,6.0,4.1,5.4,7.2,5.2,6.8,6.8,7.9,2.9,8.0,14.2,16.7,8.0,10.8,-1.7,-6.2,2.7,4.5,4.0,(NA)
+38000,North Dakota,5,Gross operating surplus (millions of dollars),13.0,1.5,8.1,3.5,3.9,16.6,-0.3,9.1,4.9,14.7,16.4,-1.7,15.8,15.0,33.3,0.8,4.8,-12.5,-8.8,3.8,10.8,-0.6,(NA)
+38000,North Dakota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-17.6,-33.1,-15.7,17.2,92.5,-6.6,25.1,-14.8,30.8,3.4,-7.8,10.4,-5.2,52.5,27.0,-0.6,33.6,3.1,-13.4,9.9,3.4,-3.6,(NA)
+38000,North Dakota,7,  Taxes on production and imports (TOPI) (millions of dollars),1.7,3.5,5.4,-3.0,2.2,11.1,6.5,7.7,1.5,3.2,9.3,0.5,7.0,22.6,18.8,10.4,15.0,2.2,-5.3,7.3,5.1,4.7,(NA)
+38000,North Dakota,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+39000,Ohio,1,Real GDP (millions of chained 2012 dollars),3.5,2.3,2.1,-1.4,2.4,1.6,2.3,1.8,-0.5,0.0,-1.6,-5.0,2.7,3.1,0.8,1.8,3.8,1.5,0.9,1.3,2.3,1.5,-4.0
+39000,Ohio,2,Chain-type quantity indexes for real GDP,3.5,2.3,2.1,-1.4,2.4,1.6,2.3,1.8,-0.5,0.0,-1.6,-5.0,2.7,3.1,0.8,1.8,3.8,1.5,0.9,1.3,2.3,1.5,-4.0
+39000,Ohio,3,Current-dollar GDP (millions of current dollars),5.4,4.0,4.1,1.1,3.9,3.2,4.9,4.6,2.4,2.9,0.2,-2.8,3.9,5.4,3.3,3.7,5.7,2.8,2.0,3.3,5.1,3.0,-2.9
+39000,Ohio,4,Compensation (millions of dollars),5.8,5.2,4.6,2.1,1.5,3.1,4.3,2.8,4.0,2.9,0.9,-5.0,1.8,4.2,4.1,3.3,3.9,3.7,2.2,3.6,3.7,3.5,(NA)
+39000,Ohio,5,Gross operating surplus (millions of dollars),5.0,2.3,3.3,-0.2,7.6,3.4,5.9,6.9,0.1,1.8,-0.8,1.0,7.4,7.6,2.4,3.8,7.8,1.7,1.9,2.8,7.1,2.1,(NA)
+39000,Ohio,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.6,2.3,4.9,-0.1,6.3,3.0,5.8,7.3,1.9,8.6,-0.8,-3.9,1.4,2.3,2.9,6.8,8.7,2.1,1.7,4.2,4.6,4.9,(NA)
+39000,Ohio,7,  Taxes on production and imports (TOPI) (millions of dollars),3.8,3.6,4.6,0.7,4.5,3.9,5.3,8.1,1.1,8.1,-0.9,-2.9,1.3,2.7,2.5,6.4,7.8,2.2,2.0,3.5,4.6,5.4,(NA)
+39000,Ohio,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+40000,Oklahoma,1,Real GDP (millions of chained 2012 dollars),2.2,1.6,3.7,3.6,1.8,1.4,3.1,4.2,6.8,1.9,3.9,-1.3,0.1,3.6,4.9,2.1,5.3,3.7,-2.7,0.0,2.7,2.4,-6.1
+40000,Oklahoma,2,Chain-type quantity indexes for real GDP,2.2,1.6,3.7,3.6,1.8,1.4,3.1,4.2,6.8,1.9,3.9,-1.3,0.1,3.6,4.9,2.1,5.3,3.7,-2.7,0.0,2.7,2.4,-6.1
+40000,Oklahoma,3,Current-dollar GDP (millions of current dollars),2.7,3.5,8.1,6.5,2.5,6.0,7.4,10.2,10.1,5.7,10.3,-8.7,5.0,7.8,4.9,5.0,6.4,-4.9,-3.4,4.3,7.1,1.7,-7.6
+40000,Oklahoma,4,Compensation (millions of dollars),6.6,4.0,7.3,5.6,1.9,2.9,5.4,5.7,9.1,5.2,5.4,-2.5,3.0,5.8,5.5,3.7,4.4,1.9,-1.9,3.1,5.0,3.6,(NA)
+40000,Oklahoma,5,Gross operating surplus (millions of dollars),-2.3,3.5,8.5,8.8,3.4,10.9,9.5,16.9,11.2,6.7,17.1,-16.4,7.5,10.6,3.6,7.0,9.6,-13.0,-5.6,5.7,10.0,-0.4,(NA)
+40000,Oklahoma,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-0.4,-0.5,13.0,0.8,1.5,5.1,11.3,6.1,11.7,3.7,3.1,0.7,5.6,4.3,10.2,1.5,0.0,2.3,-2.0,5.6,5.3,0.3,(NA)
+40000,Oklahoma,7,  Taxes on production and imports (TOPI) (millions of dollars),1.1,3.2,10.3,0.9,0.1,5.5,8.4,7.4,10.1,4.3,3.4,0.8,5.6,4.8,9.6,2.1,4.1,-1.1,-3.2,5.1,5.5,1.3,(NA)
+40000,Oklahoma,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+41000,Oregon,1,Real GDP (millions of chained 2012 dollars),4.7,2.2,8.6,-0.8,2.2,4.2,5.1,3.6,6.0,1.8,1.6,-4.2,1.5,2.9,0.3,0.8,3.4,5.6,4.8,4.2,4.6,2.8,-2.8
+41000,Oregon,2,Chain-type quantity indexes for real GDP,4.7,2.2,8.6,-0.8,2.2,4.2,5.1,3.6,6.0,1.8,1.6,-4.2,1.5,2.9,0.3,0.8,3.4,5.6,4.8,4.2,4.6,2.8,-2.8
+41000,Oregon,3,Current-dollar GDP (millions of current dollars),4.2,2.3,9.0,0.0,3.3,4.9,7.2,5.3,8.1,4.0,2.2,-2.7,2.0,4.1,2.2,2.8,5.2,7.4,5.9,5.8,6.6,4.8,-1.2
+41000,Oregon,4,Compensation (millions of dollars),6.0,5.8,9.0,2.0,0.6,3.1,5.7,5.9,7.2,5.2,1.5,-4.6,1.1,3.7,5.1,3.5,5.1,6.7,4.9,6.0,6.0,4.7,(NA)
+41000,Oregon,5,Gross operating surplus (millions of dollars),2.2,-2.5,8.9,-3.5,7.9,8.2,9.4,4.6,9.5,2.3,3.2,-0.2,2.6,4.9,-2.2,1.7,5.4,8.9,7.1,5.7,7.4,5.2,(NA)
+41000,Oregon,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-0.9,-0.4,10.7,3.1,3.6,1.8,7.6,5.2,5.8,5.1,2.7,-1.6,9.1,2.9,7.4,4.9,6.2,3.4,6.4,4.8,6.1,2.6,(NA)
+41000,Oregon,7,  Taxes on production and imports (TOPI) (millions of dollars),-0.6,0.3,10.1,3.4,2.8,2.8,6.3,6.3,5.0,5.5,2.0,-0.6,8.4,2.8,6.3,4.6,5.7,3.5,6.5,4.4,5.9,2.9,(NA)
+41000,Oregon,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+42000,Pennsylvania,1,Real GDP (millions of chained 2012 dollars),2.7,2.9,2.5,1.2,0.9,2.2,2.7,1.8,0.7,3.2,2.1,-2.9,2.8,1.4,1.5,1.6,2.4,2.4,1.3,0.6,1.9,2.4,-4.4
+42000,Pennsylvania,2,Chain-type quantity indexes for real GDP,2.7,2.9,2.5,1.2,0.9,2.2,2.7,1.8,0.7,3.2,2.1,-2.9,2.8,1.4,1.5,1.6,2.4,2.4,1.3,0.6,1.9,2.4,-4.4
+42000,Pennsylvania,3,Current-dollar GDP (millions of current dollars),4.8,4.5,4.5,4.1,2.8,4.1,5.8,5.0,4.1,6.4,4.0,-0.8,3.8,3.3,3.6,3.5,4.2,3.0,2.1,2.5,4.5,3.9,-3.5
+42000,Pennsylvania,4,Compensation (millions of dollars),6.0,5.4,6.3,4.1,2.2,3.1,5.1,4.1,5.3,4.7,2.5,-2.1,2.5,3.8,2.8,2.8,3.1,4.1,1.3,3.8,4.2,4.0,(NA)
+42000,Pennsylvania,5,Gross operating surplus (millions of dollars),2.7,3.0,1.9,4.3,3.7,5.4,6.2,5.4,2.2,9.3,8.0,1.8,6.0,2.2,4.6,4.5,6.0,1.2,3.3,0.6,4.8,3.7,(NA)
+42000,Pennsylvania,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.3,4.8,3.1,2.9,3.2,6.5,9.7,10.7,4.2,5.6,-3.7,-3.8,2.9,4.8,4.3,4.0,2.9,4.1,1.5,3.7,4.9,4.0,(NA)
+42000,Pennsylvania,7,  Taxes on production and imports (TOPI) (millions of dollars),4.6,4.7,3.1,3.3,3.2,6.9,9.0,10.8,3.9,5.5,-3.7,-2.8,2.7,5.2,3.6,3.8,2.6,3.8,1.6,3.6,4.9,4.1,(NA)
+42000,Pennsylvania,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+44000,Rhode Island,1,Real GDP (millions of chained 2012 dollars),4.4,3.0,4.8,1.4,3.7,3.7,4.5,1.4,2.3,-2.8,-3.0,-0.4,2.3,-0.2,0.7,0.1,0.6,1.8,0.1,-0.6,0.8,1.0,-4.5
+44000,Rhode Island,2,Chain-type quantity indexes for real GDP,4.4,3.0,4.8,1.4,3.7,3.7,4.5,1.4,2.3,-2.8,-3.0,-0.4,2.3,-0.2,0.7,0.1,0.6,1.8,0.1,-0.6,0.8,1.0,-4.5
+44000,Rhode Island,3,Current-dollar GDP (millions of current dollars),6.6,4.7,6.9,4.2,5.9,5.6,7.4,4.4,5.7,0.2,-1.4,1.8,3.3,1.4,2.9,2.3,2.8,4.2,1.7,1.0,3.1,3.3,-2.7
+44000,Rhode Island,4,Compensation (millions of dollars),6.5,5.3,7.3,4.4,4.7,5.8,4.7,3.6,5.2,2.9,1.2,-3.8,3.9,1.3,2.5,3.1,4.6,4.0,2.1,3.7,2.9,2.8,(NA)
+44000,Rhode Island,5,Gross operating surplus (millions of dollars),7.5,4.0,6.1,4.2,8.2,4.6,11.8,5.6,7.0,-3.7,-6.1,11.0,2.5,1.1,3.3,0.6,0.0,4.7,1.0,-3.3,2.9,3.7,(NA)
+44000,Rhode Island,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.7,4.1,7.8,3.6,4.4,8.6,7.2,4.9,2.3,-0.6,1.3,1.7,2.4,3.5,3.6,4.7,4.0,2.5,2.3,1.1,5.4,4.3,(NA)
+44000,Rhode Island,7,  Taxes on production and imports (TOPI) (millions of dollars),2.2,4.1,7.5,4.1,4.4,8.9,7.1,5.5,2.2,-0.2,0.9,2.4,2.2,3.7,3.0,4.5,3.7,2.4,2.5,0.6,5.1,4.2,(NA)
+44000,Rhode Island,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+45000,South Carolina,1,Real GDP (millions of chained 2012 dollars),3.7,4.6,2.8,0.5,2.4,3.5,1.3,2.7,2.3,2.6,-0.1,-4.4,1.9,2.3,0.7,2.0,2.7,3.7,3.2,3.1,3.1,2.8,-4.1
+45000,South Carolina,2,Chain-type quantity indexes for real GDP,3.7,4.6,2.8,0.5,2.4,3.5,1.3,2.7,2.3,2.6,-0.1,-4.4,1.9,2.3,0.7,2.0,2.7,3.7,3.2,3.1,3.1,2.8,-4.1
+45000,South Carolina,3,Current-dollar GDP (millions of current dollars),6.2,6.4,4.6,3.6,4.1,4.9,3.7,5.5,5.6,5.6,1.7,-1.2,2.5,3.8,3.1,4.3,5.0,6.3,4.7,4.6,5.3,5.2,-2.4
+45000,South Carolina,4,Compensation (millions of dollars),7.5,6.3,6.0,2.7,2.5,4.4,5.1,5.3,6.5,5.6,2.8,-4.2,1.3,4.3,3.0,3.7,5.1,5.3,3.9,5.2,5.0,5.0,(NA)
+45000,South Carolina,5,Gross operating surplus (millions of dollars),3.9,6.7,2.4,5.0,6.9,5.0,0.1,6.0,4.1,6.3,1.1,4.4,3.9,3.0,2.8,5.0,4.3,8.4,6.3,4.1,4.7,5.2,(NA)
+45000,South Carolina,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7.6,5.7,4.5,3.2,3.3,8.8,11.2,5.3,6.7,3.0,-3.9,-3.4,4.2,4.4,5.1,4.7,8.0,3.1,2.8,2.5,10.9,6.5,(NA)
+45000,South Carolina,7,  Taxes on production and imports (TOPI) (millions of dollars),7.6,6.5,4.5,3.3,2.6,9.3,10.3,7.1,5.7,3.2,-4.0,-2.6,3.7,4.7,4.5,4.4,7.6,2.7,3.1,2.4,10.5,6.9,(NA)
+45000,South Carolina,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+46000,South Dakota,1,Real GDP (millions of chained 2012 dollars),5.9,3.8,6.9,0.8,10.6,1.9,3.0,4.1,1.7,5.0,3.3,1.1,1.2,6.4,1.4,0.4,1.6,2.1,0.8,0.6,2.7,0.6,-1.7
+46000,South Dakota,2,Chain-type quantity indexes for real GDP,5.9,3.8,6.9,0.8,10.6,1.9,3.0,4.1,1.7,5.0,3.3,1.1,1.2,6.4,1.4,0.4,1.6,2.1,0.8,0.6,2.7,0.6,-1.7
+46000,South Dakota,3,Current-dollar GDP (millions of current dollars),6.2,4.1,7.7,3.3,11.8,3.9,6.7,5.2,4.2,9.4,4.8,-0.4,3.8,10.6,4.5,3.2,3.1,2.7,2.3,3.3,5.8,3.2,-0.2
+46000,South Dakota,4,Compensation (millions of dollars),6.9,7.3,6.8,3.5,4.2,4.6,5.7,4.8,4.7,7.0,5.2,-0.7,3.6,4.7,4.3,2.4,6.0,3.9,3.3,4.3,4.3,4.6,(NA)
+46000,South Dakota,5,Gross operating surplus (millions of dollars),7.3,3.3,9.1,3.5,18.2,4.7,6.8,7.7,1.2,12.2,5.7,-0.9,4.4,16.5,5.0,3.7,0.5,0.9,1.8,1.3,7.8,2.4,(NA)
+46000,South Dakota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),-5.5,-16.3,5.6,-1.0,37.3,-7.0,16.1,-12.3,29.9,7.4,-6.3,6.8,-0.2,9.0,0.5,5.5,4.2,9.7,-1.2,12.9,1.0,-1.5,(NA)
+46000,South Dakota,7,  Taxes on production and imports (TOPI) (millions of dollars),4.2,6.1,3.9,-0.9,3.8,4.8,6.0,7.9,3.8,5.6,1.6,2.0,2.9,7.2,3.2,7.0,7.2,3.5,1.7,10.0,5.0,4.5,(NA)
+46000,South Dakota,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+47000,Tennessee,1,Real GDP (millions of chained 2012 dollars),6.2,3.1,1.3,-0.4,3.3,2.8,4.9,2.1,2.5,-1.0,1.2,-3.3,1.4,3.1,3.2,1.3,1.5,3.9,1.7,2.2,2.7,1.6,-4.9
+47000,Tennessee,2,Chain-type quantity indexes for real GDP,6.2,3.1,1.3,-0.4,3.3,2.8,4.9,2.1,2.5,-1.0,1.2,-3.3,1.4,3.1,3.2,1.3,1.5,3.9,1.7,2.2,2.7,1.6,-4.9
+47000,Tennessee,3,Current-dollar GDP (millions of current dollars),8.5,5.2,3.4,2.1,5.1,4.1,7.2,4.7,5.3,1.7,3.0,-0.5,2.1,4.6,6.0,3.5,3.6,6.5,3.3,3.5,4.8,3.8,-3.2
+47000,Tennessee,4,Compensation (millions of dollars),6.3,5.9,5.4,2.2,3.0,4.3,6.1,4.3,5.0,4.7,1.9,-4.8,2.3,3.9,6.3,2.0,3.8,5.3,3.6,4.5,5.2,4.2,(NA)
+47000,Tennessee,5,Gross operating surplus (millions of dollars),12.8,4.0,0.1,2.2,8.0,3.1,8.7,5.0,5.5,-3.1,5.2,7.6,1.2,5.3,5.7,5.8,3.6,8.2,3.2,2.3,3.8,2.9,(NA)
+47000,Tennessee,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.0,5.6,5.7,0.4,6.6,7.8,7.9,5.5,5.8,4.4,0.9,-8.0,6.1,5.7,4.8,1.6,2.2,6.1,2.3,3.6,6.8,6.6,(NA)
+47000,Tennessee,7,  Taxes on production and imports (TOPI) (millions of dollars),3.2,6.2,6.0,1.4,4.9,8.0,7.2,7.5,4.4,4.7,0.4,-6.8,5.2,6.2,4.3,1.4,1.8,5.6,2.5,3.6,6.5,7.2,(NA)
+47000,Tennessee,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+48000,Texas,1,Real GDP (millions of chained 2012 dollars),6.3,3.9,3.5,2.4,2.0,0.6,5.3,2.6,6.8,5.4,0.1,-0.3,2.4,3.2,5.0,4.3,3.3,5.1,0.7,2.8,3.9,2.9,-3.5
+48000,Texas,2,Chain-type quantity indexes for real GDP,6.3,3.9,3.5,2.4,2.0,0.6,5.3,2.6,6.8,5.4,0.1,-0.3,2.4,3.2,5.0,4.3,3.3,5.1,0.7,2.8,3.9,2.9,-3.5
+48000,Texas,3,Current-dollar GDP (millions of current dollars),5.8,5.4,8.6,4.6,1.9,5.3,9.4,8.7,9.9,8.7,4.9,-5.9,6.4,7.6,6.0,6.4,4.5,-0.2,0.2,6.2,7.8,2.7,-4.6
+48000,Texas,4,Compensation (millions of dollars),10.1,6.6,9.2,4.5,0.6,2.7,5.1,6.8,9.0,7.6,4.7,-2.2,3.2,5.5,6.8,4.5,6.8,4.5,1.5,4.6,6.1,5.6,(NA)
+48000,Texas,5,Gross operating surplus (millions of dollars),0.4,3.2,8.2,5.4,2.6,9.4,15.7,11.3,11.1,9.7,5.7,-10.3,10.9,10.4,4.9,9.0,1.5,-6.6,-1.5,8.2,9.7,1.7,(NA)
+48000,Texas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.5,7.9,6.7,1.7,8.2,3.8,6.4,7.4,9.1,9.5,2.2,-4.6,3.3,5.3,7.2,3.5,8.4,5.8,1.1,7.0,9.1,-10.3,(NA)
+48000,Texas,7,  Taxes on production and imports (TOPI) (millions of dollars),5.0,9.3,5.9,3.0,6.0,4.7,5.1,8.6,7.8,9.3,1.9,-3.7,2.6,5.6,6.8,3.7,8.1,5.3,1.2,6.8,9.0,-9.4,(NA)
+48000,Texas,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+49000,Utah,1,Real GDP (millions of chained 2012 dollars),6.3,4.2,3.7,1.6,1.9,1.8,5.3,6.3,8.5,5.0,-0.9,-1.9,2.0,3.0,1.2,2.6,3.1,3.9,4.2,4.4,5.6,3.8,-0.1
+49000,Utah,2,Chain-type quantity indexes for real GDP,6.3,4.2,3.7,1.6,1.9,1.8,5.3,6.3,8.5,5.0,-0.9,-1.9,2.0,3.0,1.2,2.6,3.1,3.9,4.2,4.4,5.6,3.8,-0.1
+49000,Utah,3,Current-dollar GDP (millions of current dollars),8.0,6.0,6.6,4.3,3.8,3.9,8.4,9.9,12.4,8.1,1.1,-2.0,4.0,5.6,3.3,4.5,5.2,5.2,5.7,6.5,8.4,6.0,1.3
+49000,Utah,4,Compensation (millions of dollars),7.4,6.4,7.7,4.5,2.0,3.1,7.4,7.6,10.6,8.6,3.0,-3.3,1.3,5.3,5.1,5.2,4.9,6.3,5.7,6.1,7.7,6.5,(NA)
+49000,Utah,5,Gross operating surplus (millions of dollars),7.2,5.9,5.1,3.9,7.0,4.9,9.4,13.9,15.7,8.2,-1.3,0.0,8.2,5.5,0.3,3.8,5.9,4.2,5.3,6.2,10.0,5.4,(NA)
+49000,Utah,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),18.5,3.5,5.4,3.9,1.0,5.2,11.0,6.3,7.6,3.8,0.2,-4.1,0.3,8.5,8.5,2.2,3.5,2.0,9.0,11.9,2.7,5.6,(NA)
+49000,Utah,7,  Taxes on production and imports (TOPI) (millions of dollars),17.9,3.6,5.2,5.4,0.3,6.0,9.7,6.8,6.9,4.4,0.1,-3.3,0.1,8.6,8.1,2.0,3.8,1.6,8.8,11.6,3.0,5.5,(NA)
+49000,Utah,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+50000,Vermont,1,Real GDP (millions of chained 2012 dollars),3.2,5.5,5.4,3.0,3.1,3.4,5.0,1.3,0.8,-1.2,2.4,-1.6,4.1,2.2,0.6,-1.8,0.5,1.3,1.1,0.4,0.9,0.8,-5.4
+50000,Vermont,2,Chain-type quantity indexes for real GDP,3.2,5.5,5.4,3.0,3.1,3.4,5.0,1.3,0.8,-1.2,2.4,-1.6,4.1,2.2,0.6,-1.8,0.5,1.3,1.1,0.4,0.9,0.8,-5.4
+50000,Vermont,3,Current-dollar GDP (millions of current dollars),4.1,6.7,6.7,5.2,4.6,4.8,7.3,3.7,3.4,1.6,4.0,0.8,4.8,3.8,2.7,0.3,2.5,3.3,2.5,1.9,2.9,3.1,-3.6
+50000,Vermont,4,Compensation (millions of dollars),6.7,6.9,7.8,5.9,3.3,4.2,5.6,3.9,3.3,4.3,3.7,-2.6,1.7,4.4,2.9,3.6,1.9,4.1,2.0,2.9,3.2,2.9,(NA)
+50000,Vermont,5,Gross operating surplus (millions of dollars),-0.2,7.5,5.9,4.2,6.9,4.0,9.8,1.6,3.7,-4.1,7.6,6.8,9.8,3.1,1.9,-6.5,3.1,1.9,3.3,-0.4,1.9,3.6,(NA)
+50000,Vermont,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.3,2.6,1.9,4.2,5.6,11.9,8.9,10.8,3.4,5.0,-6.2,2.1,6.1,2.3,4.7,5.6,4.3,3.1,2.5,4.0,4.6,3.3,(NA)
+50000,Vermont,7,  Taxes on production and imports (TOPI) (millions of dollars),2.9,3.0,2.8,3.3,7.2,11.3,8.3,11.1,3.1,4.9,-6.2,3.9,4.9,2.2,4.4,5.2,4.0,2.9,2.6,3.6,4.8,3.4,(NA)
+50000,Vermont,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+51000,Virginia,1,Real GDP (millions of chained 2012 dollars),5.5,5.1,4.8,3.4,0.9,3.8,4.7,5.5,1.9,0.8,0.0,-0.2,2.8,1.0,0.6,0.3,0.0,2.0,1.0,1.7,2.3,2.2,-2.5
+51000,Virginia,2,Chain-type quantity indexes for real GDP,5.5,5.1,4.8,3.4,0.9,3.8,4.7,5.5,1.9,0.8,0.0,-0.2,2.8,1.0,0.6,0.3,0.0,2.0,1.0,1.7,2.3,2.2,-2.5
+51000,Virginia,3,Current-dollar GDP (millions of current dollars),7.6,7.6,7.4,6.3,3.2,5.7,7.3,8.5,5.0,3.7,1.9,2.3,3.4,2.2,2.8,2.3,2.1,4.3,2.5,3.1,4.2,4.4,-0.9
+51000,Virginia,4,Compensation (millions of dollars),7.9,7.6,9.3,4.8,2.3,5.9,7.9,6.6,4.7,5.3,2.8,0.2,2.2,2.3,3.0,1.9,2.6,4.5,2.2,4.0,4.5,4.0,(NA)
+51000,Virginia,5,Gross operating surplus (millions of dollars),7.5,8.0,4.5,8.6,4.1,5.0,6.7,11.1,6.0,1.1,0.5,4.5,5.8,2.5,2.8,2.6,1.2,4.4,2.7,1.4,3.9,5.0,(NA)
+51000,Virginia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.2,4.8,6.5,7.3,6.1,8.3,4.9,11.5,2.0,3.6,0.6,9.0,1.6,-0.3,1.6,4.1,2.1,1.8,3.6,4.5,3.8,4.1,(NA)
+51000,Virginia,7,  Taxes on production and imports (TOPI) (millions of dollars),4.9,5.2,6.5,7.8,5.8,8.7,4.3,12.5,1.5,3.8,0.2,9.0,1.4,0.1,1.6,3.8,2.0,1.5,3.7,4.3,3.7,4.2,(NA)
+51000,Virginia,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+53000,Washington,1,Real GDP (millions of chained 2012 dollars),6.3,7.4,0.9,-2.3,1.6,1.7,1.9,6.6,4.0,6.0,1.1,-2.5,2.3,1.7,3.2,2.7,3.6,4.7,3.9,5.5,7.2,4.6,-0.7
+53000,Washington,2,Chain-type quantity indexes for real GDP,6.3,7.4,0.9,-2.3,1.6,1.7,1.9,6.6,4.0,6.0,1.1,-2.5,2.3,1.7,3.2,2.7,3.6,4.7,3.9,5.5,7.2,4.6,-0.7
+53000,Washington,3,Current-dollar GDP (millions of current dollars),8.2,9.8,3.4,0.7,3.5,3.9,4.7,9.6,7.3,9.2,2.6,-0.5,3.4,3.8,5.5,4.8,5.5,6.5,4.6,6.9,9.0,6.5,0.9
+53000,Washington,4,Compensation (millions of dollars),10.5,9.0,6.2,1.0,1.0,3.2,5.2,5.7,7.2,8.0,3.9,-2.5,2.1,3.7,5.7,4.5,5.9,5.0,5.9,7.3,8.9,6.7,(NA)
+53000,Washington,5,Gross operating surplus (millions of dollars),5.9,11.9,-0.7,0.1,7.6,4.5,3.1,15.4,7.3,12.2,1.4,3.6,4.7,3.7,5.2,5.0,5.0,8.6,2.8,6.5,10.3,5.9,(NA)
+53000,Washington,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3.9,5.9,3.8,1.2,2.8,5.7,8.6,9.7,7.0,2.9,0.3,-8.0,5.7,5.4,5.6,5.1,5.9,5.4,6.6,6.4,3.3,8.6,(NA)
+53000,Washington,7,  Taxes on production and imports (TOPI) (millions of dollars),4.1,5.9,3.9,1.7,2.2,6.1,7.9,9.8,6.3,3.4,0.2,-6.9,5.4,5.3,5.1,5.0,5.5,5.4,6.8,6.3,3.4,8.5,(NA)
+53000,Washington,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+54000,West Virginia,1,Real GDP (millions of chained 2012 dollars),1.6,3.3,-0.2,0.0,1.3,0.2,1.3,2.9,1.4,0.0,1.9,-0.2,1.2,1.6,-0.3,1.1,-0.6,0.9,-1.5,0.7,3.0,0.7,-5.5
+54000,West Virginia,2,Chain-type quantity indexes for real GDP,1.6,3.3,-0.2,0.0,1.3,0.2,1.3,2.9,1.4,0.0,1.9,-0.2,1.2,1.6,-0.3,1.1,-0.6,0.9,-1.5,0.7,3.0,0.7,-5.5
+54000,West Virginia,3,Current-dollar GDP (millions of current dollars),3.2,4.4,1.9,3.3,3.3,2.9,5.4,8.1,6.2,3.6,5.7,1.7,3.6,4.8,1.3,2.4,1.1,-1.3,-1.1,4.1,6.6,1.6,-6.5
+54000,West Virginia,4,Compensation (millions of dollars),3.7,3.4,4.8,3.6,2.2,2.9,5.0,4.4,6.4,2.9,5.4,-0.2,1.6,5.1,3.7,0.4,0.9,1.4,-2.5,4.8,7.3,0.5,(NA)
+54000,West Virginia,5,Gross operating surplus (millions of dollars),2.7,5.0,-2.7,2.0,5.8,2.5,6.2,14.3,6.9,4.6,7.1,5.7,4.7,4.2,-2.0,5.4,1.0,-4.2,0.2,3.2,5.1,2.7,(NA)
+54000,West Virginia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),1.9,7.9,1.9,6.7,0.7,4.7,4.7,8.0,1.1,3.9,2.1,-4.5,12.4,6.0,1.8,1.3,2.8,-5.2,1.4,3.7,8.5,3.9,(NA)
+54000,West Virginia,7,  Taxes on production and imports (TOPI) (millions of dollars),1.5,7.9,2.2,6.3,0.8,4.9,4.6,8.1,1.0,4.0,1.9,-4.0,11.8,6.4,1.7,1.1,2.5,-5.3,1.5,3.4,8.3,3.9,(NA)
+54000,West Virginia,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+55000,Wisconsin,1,Real GDP (millions of chained 2012 dollars),3.8,4.1,3.0,1.3,2.1,2.8,3.3,2.4,1.8,0.5,-1.3,-2.8,3.1,2.1,1.4,0.4,2.3,2.2,1.1,1.0,3.3,1.4,-4.5
+55000,Wisconsin,2,Chain-type quantity indexes for real GDP,3.8,4.1,3.0,1.3,2.1,2.8,3.3,2.4,1.8,0.5,-1.3,-2.8,3.1,2.1,1.4,0.4,2.3,2.2,1.1,1.0,3.3,1.4,-4.5
+55000,Wisconsin,3,Current-dollar GDP (millions of current dollars),6.0,6.0,4.8,4.1,3.7,4.2,5.9,4.9,4.5,3.4,0.3,0.4,3.7,3.8,3.9,2.7,4.3,4.3,2.3,2.3,5.3,3.5,-3.1
+55000,Wisconsin,4,Compensation (millions of dollars),6.5,6.0,5.9,3.9,3.0,3.7,5.3,3.3,4.3,3.9,2.7,-2.9,0.9,4.2,3.5,2.7,3.4,3.8,2.2,3.6,4.8,3.4,(NA)
+55000,Wisconsin,5,Gross operating surplus (millions of dollars),5.9,5.9,3.6,4.1,4.6,5.3,6.6,8.2,4.8,2.9,-4.0,6.1,8.6,2.9,5.0,1.9,6.6,6.0,2.1,0.3,6.2,3.5,(NA)
+55000,Wisconsin,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.5,5.9,1.6,5.9,4.8,3.3,7.1,2.6,5.4,1.3,1.6,1.7,2.8,4.3,1.3,6.6,-0.8,-1.3,3.5,2.6,4.4,4.7,(NA)
+55000,Wisconsin,7,  Taxes on production and imports (TOPI) (millions of dollars),2.6,7.5,2.0,4.7,4.1,4.4,5.7,4.4,4.2,0.5,1.5,3.2,1.8,4.6,1.2,6.1,-1.4,-0.7,3.4,1.9,4.9,5.6,(NA)
+55000,Wisconsin,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+56000,Wyoming,1,Real GDP (millions of chained 2012 dollars),2.2,4.1,3.2,5.8,2.2,2.4,3.0,5.1,13.3,7.3,5.7,-2.8,-3.8,-1.0,-2.5,0.2,0.5,3.1,-4.6,-0.6,2.2,1.3,-7.0
+56000,Wyoming,2,Chain-type quantity indexes for real GDP,2.2,4.1,3.2,5.8,2.2,2.4,3.0,5.1,13.3,7.4,5.7,-2.8,-3.8,-1.0,-2.5,0.2,0.5,3.1,-4.6,-0.6,2.2,1.3,-7.0
+56000,Wyoming,3,Current-dollar GDP (millions of current dollars),1.2,5.6,9.4,8.7,2.5,10.0,10.3,17.2,19.2,12.8,16.2,-15.2,3.8,5.3,-2.5,1.3,1.3,-4.0,-5.7,4.4,6.5,1.8,-10.3
+56000,Wyoming,4,Compensation (millions of dollars),5.1,5.9,7.1,8.0,5.0,5.3,6.8,8.5,16.5,11.0,8.7,-5.8,1.7,4.1,5.0,3.3,4.8,-0.4,-5.7,2.3,4.9,4.2,(NA)
+56000,Wyoming,5,Gross operating surplus (millions of dollars),-4.8,5.4,11.4,11.8,-1.4,14.6,13.5,26.9,22.3,15.3,24.4,-23.3,6.2,4.9,-8.8,-0.2,-0.5,-8.7,-6.0,9.2,7.4,-0.9,(NA)
+56000,Wyoming,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),9.1,5.1,12.8,-0.2,6.5,14.0,13.0,15.2,16.7,8.3,5.9,-7.4,0.8,12.1,-2.5,-0.5,-6.6,0.3,-4.3,-5.9,11.3,2.5,(NA)
+56000,Wyoming,7,  Taxes on production and imports (TOPI) (millions of dollars),9.2,5.7,12.2,0.5,7.0,13.0,12.1,18.5,13.1,8.4,5.9,-7.2,0.8,11.9,-2.4,-0.4,-4.3,-1.8,-4.5,-5.5,10.8,2.8,(NA)
+56000,Wyoming,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+91000,New England,1,Real GDP (millions of chained 2012 dollars),3.9,4.4,7.2,1.5,0.8,2.4,3.9,1.9,2.4,2.0,0.0,-1.9,2.5,0.6,1.4,-0.5,1.1,3.3,1.2,1.7,2.3,1.8,-4.0
+91000,New England,2,Chain-type quantity indexes for real GDP,3.9,4.4,7.2,1.5,0.8,2.4,3.9,1.9,2.4,2.0,0.0,-1.9,2.5,0.6,1.4,-0.5,1.1,3.3,1.2,1.7,2.3,1.8,-4.0
+91000,New England,3,Current-dollar GDP (millions of current dollars),5.2,5.6,8.7,3.5,2.7,3.9,6.4,4.6,5.3,4.7,1.5,0.3,3.2,2.1,3.6,1.7,3.2,5.6,2.7,3.2,4.5,4.0,-2.3
+91000,New England,4,Compensation (millions of dollars),7.5,7.2,10.3,2.8,-0.1,2.6,6.0,3.7,5.0,5.8,2.5,-3.8,2.8,3.9,3.2,2.6,4.2,4.9,2.3,3.9,4.2,4.0,(NA)
+91000,New England,5,Gross operating surplus (millions of dollars),1.6,3.4,6.8,4.9,6.9,5.4,7.1,6.0,6.2,3.8,0.3,6.3,3.8,-0.6,3.9,-0.1,1.3,7.2,3.4,2.2,4.7,4.1,(NA)
+91000,New England,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.7,3.7,4.2,2.7,4.3,7.5,6.2,4.4,2.2,1.1,0.5,1.2,3.3,3.7,6.1,4.7,6.3,2.4,2.7,3.1,6.0,2.9,(NA)
+91000,New England,7,  Taxes on production and imports (TOPI) (millions of dollars),5.3,3.7,4.0,3.0,4.5,7.8,6.0,4.7,1.8,1.5,0.2,2.0,3.2,3.4,6.2,4.4,6.0,2.1,2.8,2.7,5.8,2.9,(NA)
+91000,New England,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+92000,Mideast,1,Real GDP (millions of chained 2012 dollars),2.5,4.2,3.7,2.0,0.7,1.5,2.8,2.6,1.9,1.1,-0.1,0.1,3.0,0.6,2.5,0.6,1.6,2.1,1.6,1.2,2.2,1.7,-4.7
+92000,Mideast,2,Chain-type quantity indexes for real GDP,2.5,4.2,3.7,2.0,0.7,1.5,2.8,2.6,1.9,1.1,-0.1,0.1,3.0,0.6,2.5,0.6,1.6,2.1,1.6,1.2,2.2,1.7,-4.7
+92000,Mideast,3,Current-dollar GDP (millions of current dollars),4.4,5.8,5.8,4.6,2.7,3.4,5.8,5.7,5.1,4.3,1.6,1.8,4.2,2.4,4.9,2.9,4.0,4.1,3.2,3.1,4.9,3.8,-3.2
+92000,Mideast,4,Compensation (millions of dollars),7.1,5.8,8.3,3.3,1.2,3.1,5.7,4.8,5.8,6.0,2.5,-3.4,3.0,3.3,2.9,2.6,4.1,4.1,1.9,4.3,4.5,3.9,(NA)
+92000,Mideast,5,Gross operating surplus (millions of dollars),0.4,6.3,2.2,7.0,4.8,3.0,5.1,6.2,3.9,1.6,0.9,11.1,5.2,0.9,8.0,2.8,3.7,4.2,5.3,1.5,5.5,3.9,(NA)
+92000,Mideast,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.9,3.7,3.2,2.6,3.7,8.5,9.8,9.7,5.9,3.8,-2.3,-2.5,8.0,3.3,4.0,5.8,5.0,3.0,1.7,3.1,4.8,2.7,(NA)
+92000,Mideast,7,  Taxes on production and imports (TOPI) (millions of dollars),3.8,3.6,2.9,2.9,3.8,8.6,9.3,9.9,5.1,3.9,-2.2,-1.6,7.4,3.7,3.5,5.4,4.7,2.9,1.9,2.8,4.8,2.7,(NA)
+92000,Mideast,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+93000,Great Lakes,1,Real GDP (millions of chained 2012 dollars),3.5,3.8,2.9,-1.1,1.9,2.0,2.4,1.6,0.8,0.6,-2.2,-5.0,3.4,2.1,1.4,1.0,2.6,1.5,0.9,1.2,2.5,1.1,-4.2
+93000,Great Lakes,2,Chain-type quantity indexes for real GDP,3.5,3.8,2.9,-1.1,1.9,2.0,2.4,1.6,0.8,0.6,-2.2,-5.0,3.4,2.1,1.4,1.0,2.6,1.5,0.9,1.2,2.5,1.1,-4.2
+93000,Great Lakes,3,Current-dollar GDP (millions of current dollars),5.5,5.6,4.9,1.5,3.4,3.5,4.9,4.3,3.6,3.4,-0.6,-2.4,4.2,4.1,4.0,3.0,4.6,3.6,2.0,2.9,4.8,2.9,-2.8
+93000,Great Lakes,4,Compensation (millions of dollars),6.5,6.0,5.6,2.0,1.4,2.6,4.3,3.3,3.9,3.4,1.1,-5.2,1.5,4.2,3.9,2.5,3.7,4.3,2.2,3.8,4.2,3.0,(NA)
+93000,Great Lakes,5,Gross operating surplus (millions of dollars),4.2,5.3,3.5,0.7,6.4,4.8,5.7,5.1,3.0,3.7,-3.5,2.0,9.0,4.6,4.2,3.3,5.7,2.9,1.8,1.4,5.5,2.9,(NA)
+93000,Great Lakes,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2.9,3.3,5.4,1.5,6.0,5.2,5.8,8.1,4.3,2.4,1.1,-0.8,0.5,0.9,3.8,4.8,5.0,1.9,1.8,3.9,5.9,2.5,(NA)
+93000,Great Lakes,7,  Taxes on production and imports (TOPI) (millions of dollars),3.5,5.0,5.2,2.0,3.3,6.1,5.5,9.2,3.0,1.9,1.0,-0.2,0.3,1.5,3.4,4.6,4.1,2.0,2.4,3.2,6.1,3.4,(NA)
+93000,Great Lakes,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+94000,Plains,1,Real GDP (millions of chained 2012 dollars),3.1,2.7,4.4,-0.1,2.3,3.5,3.5,2.7,1.5,2.0,1.4,-2.4,2.6,2.1,2.3,1.1,2.8,1.8,0.5,1.1,2.4,1.1,-3.1
+94000,Plains,2,Chain-type quantity indexes for real GDP,3.1,2.7,4.4,-0.1,2.3,3.5,3.5,2.7,1.5,2.0,1.4,-2.4,2.6,2.1,2.3,1.1,2.8,1.8,0.5,1.1,2.4,1.1,-3.1
+94000,Plains,3,Current-dollar GDP (millions of current dollars),4.8,4.4,6.5,2.7,3.9,5.4,6.5,5.2,4.3,5.5,3.2,-0.7,3.9,4.8,4.9,3.3,4.4,3.0,1.4,2.8,4.6,3.1,-1.9
+94000,Plains,4,Compensation (millions of dollars),7.4,6.0,6.7,3.5,2.5,3.4,5.2,4.1,4.7,5.5,4.0,-3.1,1.9,3.5,4.4,3.3,4.6,4.1,1.8,3.8,4.4,3.4,(NA)
+94000,Plains,5,Gross operating surplus (millions of dollars),1.7,3.5,6.3,1.3,4.5,9.3,8.1,7.6,2.9,5.7,2.5,2.8,6.6,6.2,5.8,2.9,4.3,1.8,0.3,1.3,5.1,3.1,(NA)
+94000,Plains,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),0.6,-5.7,5.2,3.5,16.0,1.0,8.5,0.2,10.1,4.3,0.9,0.0,4.8,6.0,3.4,4.9,4.1,1.6,4.4,4.2,4.2,-0.1,(NA)
+94000,Plains,7,  Taxes on production and imports (TOPI) (millions of dollars),5.2,2.7,5.2,2.4,3.1,4.7,6.6,7.1,2.6,2.8,2.7,-0.2,4.5,5.5,3.2,6.2,2.5,2.2,4.2,3.2,5.4,4.5,(NA)
+94000,Plains,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+95000,Southeast,1,Real GDP (millions of chained 2012 dollars),4.7,4.6,2.5,1.3,2.3,3.3,4.5,4.6,2.6,0.2,-0.7,-3.4,1.8,0.5,0.8,1.1,1.8,2.9,1.9,2.5,2.9,2.0,-3.2
+95000,Southeast,2,Chain-type quantity indexes for real GDP,4.7,4.6,2.5,1.3,2.3,3.3,4.5,4.6,2.6,0.2,-0.7,-3.4,1.8,0.5,0.8,1.1,1.8,2.9,1.9,2.5,2.9,2.0,-3.2
+95000,Southeast,3,Current-dollar GDP (millions of current dollars),6.5,6.6,5.1,4.1,4.1,5.4,7.4,8.0,5.9,3.1,1.2,-1.6,3.0,2.6,3.2,3.1,3.9,4.7,3.1,4.2,5.3,4.1,-1.7
+95000,Southeast,4,Compensation (millions of dollars),7.6,6.3,7.0,4.1,2.8,4.5,6.4,6.2,5.7,4.8,1.8,-3.2,1.8,2.8,3.8,2.7,4.3,4.9,3.1,4.4,5.0,4.3,(NA)
+95000,Southeast,5,Gross operating surplus (millions of dollars),5.2,7.3,2.4,4.7,5.6,6.5,8.4,10.6,5.8,1.1,0.6,0.9,4.9,2.5,2.4,3.6,3.4,5.1,2.9,3.9,5.5,3.7,(NA)
+95000,Southeast,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5.6,5.3,4.7,1.4,6.4,6.3,9.8,7.6,7.6,1.8,0.1,-1.7,2.6,1.5,2.8,3.2,3.3,1.9,4.3,4.3,6.0,4.3,(NA)
+95000,Southeast,7,  Taxes on production and imports (TOPI) (millions of dollars),5.7,6.1,4.8,2.6,4.9,6.8,8.6,9.3,6.3,2.6,-0.7,-1.3,1.9,1.8,2.5,2.9,3.0,1.6,4.5,4.1,5.8,4.9,(NA)
+95000,Southeast,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+96000,Southwest,1,Real GDP (millions of chained 2012 dollars),5.9,4.5,3.7,2.3,2.2,1.7,5.1,3.5,6.3,4.4,0.0,-1.5,1.8,3.0,4.3,3.3,3.2,4.6,0.7,2.6,3.7,3.0,-3.3
+96000,Southwest,2,Chain-type quantity indexes for real GDP,5.9,4.5,3.7,2.3,2.2,1.7,5.1,3.5,6.3,4.4,0.0,-1.5,1.8,3.0,4.3,3.3,3.2,4.6,0.7,2.6,3.7,3.0,-3.3
+96000,Southwest,3,Current-dollar GDP (millions of current dollars),5.3,5.7,7.9,4.5,2.5,5.9,8.8,9.0,9.5,7.7,4.4,-6.0,5.4,6.9,5.4,5.5,4.6,0.0,0.5,5.8,7.4,3.1,-4.0
+96000,Southwest,4,Compensation (millions of dollars),9.6,6.3,9.0,4.7,1.2,3.2,5.7,7.1,9.2,7.0,4.1,-2.9,2.5,5.1,6.0,4.1,6.0,4.3,1.5,4.6,6.0,5.4,(NA)
+96000,Southwest,5,Gross operating surplus (millions of dollars),0.1,4.5,6.4,4.8,3.4,10.1,13.2,11.8,9.9,8.3,5.2,-9.9,9.4,9.2,4.4,7.5,2.6,-5.7,-0.9,7.3,9.1,2.2,(NA)
+96000,Southwest,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.0,7.4,7.6,1.8,7.2,4.1,7.3,7.1,9.6,9.0,1.7,-4.3,3.1,5.3,6.7,3.0,7.0,4.4,1.4,6.8,8.3,-7.3,(NA)
+96000,Southwest,7,  Taxes on production and imports (TOPI) (millions of dollars),4.5,8.7,6.8,2.9,5.3,5.0,6.0,8.3,8.4,8.9,1.4,-3.5,2.5,5.6,6.4,3.2,7.1,3.7,1.3,6.6,8.3,-6.5,(NA)
+96000,Southwest,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+97000,Rocky Mountain,1,Real GDP (millions of chained 2012 dollars),7.2,6.3,6.7,1.2,1.1,1.6,2.8,5.2,4.5,4.0,1.0,-2.3,1.1,1.4,1.1,2.8,3.4,4.2,2.2,3.7,4.6,3.6,-1.5
+97000,Rocky Mountain,2,Chain-type quantity indexes for real GDP,7.2,6.3,6.7,1.2,1.1,1.6,2.8,5.2,4.5,4.0,1.0,-2.3,1.1,1.4,1.1,2.8,3.4,4.2,2.2,3.7,4.6,3.6,-1.5
+97000,Rocky Mountain,3,Current-dollar GDP (millions of current dollars),8.1,7.8,9.1,3.5,2.7,4.0,6.1,9.1,7.9,7.4,4.0,-3.7,3.4,4.2,2.9,4.7,5.1,3.7,3.0,6.1,7.3,5.4,-0.7
+97000,Rocky Mountain,4,Compensation (millions of dollars),8.8,8.0,10.6,4.1,1.0,2.8,5.9,6.6,8.3,6.9,3.3,-3.2,1.4,3.8,5.0,4.4,5.8,5.1,3.4,6.1,6.4,6.1,(NA)
+97000,Rocky Mountain,5,Gross operating surplus (millions of dollars),7.1,8.1,7.0,3.0,4.6,5.9,5.7,13.0,7.5,8.5,5.2,-4.3,5.3,4.4,0.7,5.4,4.3,2.2,2.1,5.9,8.8,4.7,(NA)
+97000,Rocky Mountain,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),8.2,4.9,7.8,1.8,6.9,3.1,10.7,6.8,8.3,5.5,1.1,-3.5,8.6,5.9,-0.8,3.1,4.0,2.2,5.5,7.6,5.6,3.4,(NA)
+97000,Rocky Mountain,7,  Taxes on production and imports (TOPI) (millions of dollars),9.3,6.1,7.2,2.7,4.0,4.4,8.7,8.5,6.2,5.6,1.3,-2.9,8.1,5.9,-1.0,3.2,3.8,1.5,5.9,7.7,5.4,3.6,(NA)
+97000,Rocky Mountain,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+98000,Far West,1,Real GDP (millions of chained 2012 dollars),6.0,7.0,6.6,-0.4,2.3,4.2,4.2,4.9,4.3,2.0,0.3,-3.8,1.6,1.7,2.4,2.9,3.8,5.0,3.4,4.3,3.7,3.4,-2.7
+98000,Far West,2,Chain-type quantity indexes for real GDP,6.0,7.0,6.6,-0.4,2.3,4.2,4.2,4.9,4.3,2.0,0.3,-3.8,1.6,1.7,2.4,2.9,3.8,5.0,3.4,4.3,3.7,3.4,-2.7
+98000,Far West,3,Current-dollar GDP (millions of current dollars),6.7,8.3,8.5,1.6,3.8,6.0,6.9,7.9,7.2,5.0,1.9,-3.3,2.9,3.8,4.4,4.9,5.6,6.4,4.4,6.0,5.7,5.3,-1.2
+98000,Far West,4,Compensation (millions of dollars),8.7,8.5,11.2,2.5,1.2,4.2,6.6,5.5,6.2,5.4,1.6,-4.6,1.8,4.4,5.1,3.9,5.8,6.7,4.5,5.9,5.9,5.5,(NA)
+98000,Far West,5,Gross operating surplus (millions of dollars),4.5,8.4,4.8,1.2,6.4,9.1,7.0,11.3,8.2,4.3,1.4,-1.1,4.1,2.7,4.2,5.8,5.6,6.4,4.6,6.4,5.6,4.6,(NA)
+98000,Far West,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4.1,5.3,7.7,-3.9,12.9,2.6,9.4,6.9,9.7,4.9,8.3,-7.0,4.3,6.5,0.3,6.9,4.5,4.7,2.2,4.0,5.8,8.5,(NA)
+98000,Far West,7,  Taxes on production and imports (TOPI) (millions of dollars),3.7,5.6,7.1,3.1,5.6,3.0,8.9,7.5,8.8,5.2,7.3,-6.0,3.9,6.3,0.0,6.7,4.5,4.5,2.5,3.9,5.8,8.3,(NA)
+98000,Far West,8,  Subsidies (millions of dollars),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+Legend / Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Real GDP is in millions of chained 2012 dollars. Calculations are performed on unrounded data. Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP.",,,,,,,,,,,,,,,,,,,,,,,,,,
+(NA) Not available.,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Last updated: March 26, 2021-- new statistics for 2020.",,,,,,,,,,,,,,,,,,,,,,,,,,
